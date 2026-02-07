@@ -9,7 +9,7 @@
 | **Total**   |                           | **80 Marks** |
 
 ---
-## I. SECTION A: READING SKILLS (20 MARKS)
+## I. SECTION A: READING SECTION (20 MARKS)
 
 - ### 1. **Discursive Passage** (10 M)
 	- **Nature:** Opinion-based, persuasive, or reflective text.
