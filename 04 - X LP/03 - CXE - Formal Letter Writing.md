@@ -2,7 +2,7 @@
 - Formal letters are instruments of official communication.
 
 ## I. Details for Exam
-*   **Word Limit:** 100–120 words.
+*   **Word Limit:** 100–120 words (Body).
 *   **Marks:** 5 Marks.
 *   **Marks Distribution:** Format+Content+Expression = 1+2+2 = 5 Marks.
 *   **Format:** Strict adherence to format is crucial.
@@ -20,8 +20,9 @@ All sections start from left corner.
 
 - ### 2. Date
 	- E.g.
-		1. 02/03/2026
-		2. 02 March 2026
+		1. 08/03/2026
+		2. 08 March 2026
+		3. 8th March 2026
 
 - ### 3. Receiver's Address (Designation, Institution, Place)
 	- E.g.
