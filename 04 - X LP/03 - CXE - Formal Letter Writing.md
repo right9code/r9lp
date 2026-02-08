@@ -14,9 +14,9 @@ All sections start from left corner.
 
 - ### 1. Sender's Address
 	- E.g. 
-		1. 25/3, Abhi Appartments
-			New Delhi
-		2. XYZ Town
+		1. 25/3, Abhi Appartments  
+			New Delhi  
+		2. XYZ Town  
 
 - ### 2. Date
 	- E.g.
@@ -26,12 +26,12 @@ All sections start from left corner.
 
 - ### 3. Receiver's Address (Designation, Institution, Place)
 	- E.g.
-		1. The Editor
-			Times of India
-			New Delhi
-		2. The President
-			Resident Welfare Association (RWA) 
-			Sagar Colony, Puranpur.
+		1. The Editor  
+			Times of India  
+			New Delhi  
+		2. The President  
+			Resident Welfare Association (RWA)  
+			Sagar Colony, Puranpur.  
 
 - ### 4. Subject
 	- E.g.
@@ -63,8 +63,8 @@ All sections start from left corner.
 
 - ### 10. Sender's Name and Designation 
 	- E.g.
-		1. Narendra Modi
-			Prime Minister
+		1. Narendra Modi  
+			Prime Minister  
 		2. Elon Musk
 			CEO
 			Tesla Motors
