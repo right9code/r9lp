@@ -1,7 +1,7 @@
 # Formal Letter Writing
 - Formal letters are instruments of official communication.
 
-## 1. Details for Exam
+## I. Details for Exam
 *   **Word Limit:** 100–120 words.
 *   **Marks:** 5 Marks.
 *   **Marks Distribution:** F+C+E = 1+2+2 = 5 Marks.
@@ -9,7 +9,7 @@
 *   **Tone:** Formal, polite, and objective. No slang or abbreviations.
 *   **Writing Style**: Passive voice
 
-## 2. Format of a Formal Letter
+## II. Format of a Formal Letter
 All sections start from left corner.
 
 - ### 1. Sender's Address
@@ -68,7 +68,7 @@ All sections start from left corner.
 			CEO
 			Tesla Motors
 
-## 3. Types of Formal Letters 
+## III. Types of Formal Letters 
 
 - ### 1. Letter to Editor 
 	- **Purpose:** To highlight social issues or express opinion in a newspaper or magazine.
@@ -85,13 +85,13 @@ All sections start from left corner.
 	- **Purpose:** Requests for leave, certificates, fee concessions, or reporting issues.
 		- School, College, University etc. 
 
-## 4. Common Mistakes to Avoid
+## IV. Common Mistakes to Avoid
 *   [ ] Do **not** use '**Yours's**' (No apostrophe). Correct: **Yours**.
 *   [ ] Do **not** exceed the word limit significantly.
 *   [ ] Do **not** write everything in one paragraph. Split into three.
 *   [ ] Ensure the **Subject** is clear and underlined.
 
-## 5. Analysis of PYQ for Formal Letters
+## V. Analysis of PYQ for Formal Letters
 
 | Category            | Sub-Category                     | Count   | Percentage | Key Topics & Themes                                       |
 | :------------------ | :------------------------------- | :------ | :--------- | :-------------------------------------------------------- |
@@ -105,6 +105,7 @@ All sections start from left corner.
 | Others              | -                                | 1       | 0.8%       | Miscellaneous Civic Issues                                |
 | **TOTAL**           |                                  | **123** | **100.0%** |                                                           |
 
+--- 
 
 ## PYQ 
 
