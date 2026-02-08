@@ -85,7 +85,7 @@ All sections start from left corner.
 		- School, College, University etc. 
 
 ## 4. Common Mistakes to Avoid
-*   [ ] Do **not** use 'Yours's' (No apostrophe). Correct: **Yours**.
+*   [ ] Do **not** use '**Yours's**' (No apostrophe). Correct: **Yours**.
 *   [ ] Do **not** exceed the word limit significantly.
 *   [ ] Do **not** write everything in one paragraph. Split into three.
 *   [ ] Ensure the **Subject** is clear and underlined.
