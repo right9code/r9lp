@@ -4,7 +4,7 @@
 ## I. Details for Exam
 *   **Word Limit:** 100–120 words.
 *   **Marks:** 5 Marks.
-*   **Marks Distribution:** F+C+E = 1+2+2 = 5 Marks.
+*   **Marks Distribution:** Format+Content+Expression = 1+2+2 = 5 Marks.
 *   **Format:** Strict adherence to format is crucial.
 *   **Tone:** Formal, polite, and objective. No slang or abbreviations.
 *   **Writing Style**: Passive voice
