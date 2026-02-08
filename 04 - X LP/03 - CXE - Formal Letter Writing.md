@@ -65,9 +65,9 @@ All sections start from left corner.
 	- E.g.
 		1. Narendra Modi  
 			Prime Minister  
-		2. Elon Musk
-			CEO
-			Tesla Motors
+		2. Elon Musk  
+			CEO  
+			Tesla Motors  
 
 ## III. Types of Formal Letters 
 
