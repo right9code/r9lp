@@ -58,7 +58,7 @@ All sections start from left corner.
 
 - ### 9. Sender's Signature
 	- E.g.
-		1. ![](../01%20-%20BACKEND/0101%20-%20Attachments/Formal%20Letter%20Writing%2001.jpeg)
+		1. ![](00%20-%20Attachments/Formal%20Letter%20Writing%2001.jpeg)
 
 - ### 10. Sender's Name and Designation 
 	- E.g.
@@ -71,12 +71,6 @@ All sections start from left corner.
 ## 3. Types of Formal Letters 
 - ### 1. Letter to Editor 
 	- **Purpose:** To highlight social issues or express opinion in a newspaper or magazine.
-	- **Opening Lines:**
-	    - "Through the columns of your esteemed newspaper, I would like to draw the attention of the concerned authorities towards..."
-	    - "Through the columns of your popular daily, I would like to draw the attention of the concerned authorities towards..."
-	* **Closing Lines:**
-	    - "I hope this letter finds a place in your newspaper and create the much needed awareness regarding the matter"
-	    - "I hope this letter finds a place in your popular newspaper."
 - ### 2. Civic Authority Letters
 	- **Purpose:** To lodge complaints or requests regarding local infrastructure, sanitation, or security.
 		- (a) Municipality and Govt Agencies 
@@ -114,6 +108,7 @@ All sections start from left corner.
 ## PYQ 
 
 ### 2025 C
+
 (a) **[Civic Authority: Municipality/Govt]** You are disturbed by the poor reading habits of school children today. As a result, communication is impacted, which will have far-reaching consequences. As Shivika/Shiv Gupta of 21, Valley Apartments, Shaambagh, write a letter in about 120 words to the Municipal Councillor of your area, requesting him to create and maintain public libraries as reading zones. Also suggest how community members can support such projects.
 
 OR
@@ -253,8 +248,6 @@ Write a letter to the editor of a prominent newspaper to raise awareness about t
 OR
 
 (b) **[Civic Authority: Municipality/Govt]** You are Sapna/Samar, a resident of A-411, Vivek Vihar, Delhi. Write a letter to the Commissioner of the Municipal Corporation to highlight your concern about the street lights in your area that have been out of order for a long time. Emphasize the safety issues and inconvenience caused by the lack of proper street lighting and request prompt repairs.
-
-
 
 ### 2024 C
 
