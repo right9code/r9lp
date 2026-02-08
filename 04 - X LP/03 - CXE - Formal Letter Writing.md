@@ -69,6 +69,7 @@ All sections start from left corner.
 			Tesla Motors
 
 ## 3. Types of Formal Letters 
+
 - ### 1. Letter to Editor 
 	- **Purpose:** To highlight social issues or express opinion in a newspaper or magazine.
 - ### 2. Civic Authority Letters
@@ -77,9 +78,9 @@ All sections start from left corner.
 		- (b) RWA (Resident Welfare Association)
 - ### 3. Business Letters
 	- **Purpose:** To deal business matters including inquiry, purchase and complaint.
-	- (a) Inquiry  
-	- (b) Purchase/Order Placement
-	- (c) Complaint 
+		- (a) Inquiry  
+		- (b) Purchase/Order Placement
+		- (c) Complaint 
 - ### 4. Institution Letters 
 	- **Purpose:** Requests for leave, certificates, fee concessions, or reporting issues.
 		- School, College, University etc. 
