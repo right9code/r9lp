@@ -48,8 +48,8 @@ All sections start from left corner.
 
 - ### 7. Complementary Close
 	- E.g.
-		1. Thanking You
-		2. Thank You
+		1. Thanking You,
+		2. Thank You,
 
 - ### 8. Subscription 
 	- E.g.
