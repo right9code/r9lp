@@ -55,6 +55,7 @@ All sections start from left corner.
 	- E.g.
 		1. Yours faithfully,
 		2. Yours sincerely,
+		3. Yours truly,
 
 - ### 9. Sender's Signature
 	- E.g.
