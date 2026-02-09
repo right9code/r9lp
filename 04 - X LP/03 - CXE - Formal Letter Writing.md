@@ -5,9 +5,8 @@
 *   **Word Limit:** 100–120 words (Body).
 *   **Marks:** 5 Marks.
 *   **Marks Distribution:** Format+Content+Expression = 1+2+2 = 5 Marks.
-*   **Format:** Strict adherence to format is crucial.
 *   **Tone:** Formal, polite, and objective. No slang or abbreviations.
-*   **Writing Style**: Passive voice
+*   **Writing Style**: Passive voice preferred
 
 ## II. Format of a Formal Letter
 All sections start from left corner.
@@ -61,13 +60,13 @@ All sections start from left corner.
 	- E.g.
 		1. ![](00%20-%20Attachments/Formal%20Letter%20Writing%2001.jpeg)
 
-- ### 10. Sender's Name and Designation 
-	- E.g.
+- ### 10. Sender's Name and Designation  
+	- E.g.  
 		1. Narendra Modi  
 			Prime Minister  
-		2. Elon Musk  
-			CEO  
-			Tesla Motors  
+		2. Elon Musk    
+			CEO   
+			Tesla Motors   
 
 ## III. Types of Formal Letters 
 
@@ -87,10 +86,10 @@ All sections start from left corner.
 		- School, College, University etc. 
 
 ## IV. Common Mistakes to Avoid
-*   [ ] Do **not** use '**Yours's**' (No apostrophe). Correct: **Yours**.
-*   [ ] Do **not** exceed the word limit significantly.
-*   [ ] Do **not** write everything in one paragraph. Split into three.
-*   [ ] Ensure the **Subject** is clear and underlined.
+1. Do **not** use an apostrophe in "Yours".  
+	- **Your's** = ❌  
+	- **Yours** = ✅  
+2. Ensure the **Subject** is clear and <ins>underlined</ins>.  
 
 ## V. Analysis of PYQ for Formal Letters
 
