@@ -91,6 +91,7 @@ All sections start from left corner.
 	- **Your's** = ❌  
 	- **Yours** = ✅  
 2. Ensure the **Subject** is clear and <ins>underlined</ins>.  
+3. Leave a blank line after each section.
 
 ## V. Analysis of PYQ for Formal Letters
 
