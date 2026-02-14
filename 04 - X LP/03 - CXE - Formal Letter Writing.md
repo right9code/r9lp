@@ -37,9 +37,9 @@ All sections start from left corner.
 		1. Subject: <ins>Regrading proposal for organizing community engagement activities.</ins>
 		2. Subject: <ins>Regarding appreciation for the voluntary community service camp and request for future programmes.</ins>
 
-- ### 5. Salutation
-	- E.g.
-		1. Sir/Ma'am,
+- ### 5. Salutation  
+	- E.g.  
+		1. Sir/Ma'am,  
 
 - ### 6. Body
 	- **PARA 1**: Introduction : Purpose  
