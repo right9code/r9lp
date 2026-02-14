@@ -42,9 +42,9 @@ All sections start from left corner.
 		1. Sir/Ma'am,
 
 - ### 6. Body
-	- **PARA 1**: Introduction : Purpose
-	- **PARA 2**: Details : Cause/Effect
-	- **PARA 3**: Conclusion : Suggestions/Requests
+	- **PARA 1**: Introduction : Purpose  
+	- **PARA 2**: Details : Cause/Effect  
+	- **PARA 3**: Conclusion : Suggestions/Requests  
 
 - ### 7. Complementary Close
 	- E.g.
@@ -53,9 +53,9 @@ All sections start from left corner.
 
 - ### 8. Subscription 
 	- E.g.
-		1. Yours faithfully,
-		2. Yours sincerely,
-		3. Yours truly,
+		1. Yours faithfully,  
+		2. Yours sincerely,  
+		3. Yours truly,  
 
 - ### 9. Sender's Signature
 	- E.g.
@@ -72,26 +72,26 @@ All sections start from left corner.
 ## III. Types of Formal Letters 
 
 - ### 1. Letter to Editor 
-	- **Purpose:** To highlight social issues or express opinion in a newspaper or magazine.
-- ### 2. Civic Authority Letters
-	- **Purpose:** To lodge complaints or requests regarding local infrastructure, sanitation, or security.
-		- (a) Municipality and Govt Agencies 
-		- (b) RWA (Resident Welfare Association)
-- ### 3. Business Letters
-	- **Purpose:** To deal business matters including inquiry, purchase and complaint.
+	- **Purpose:** To highlight social issues or express opinion in a newspaper or magazine. 
+- ### 2. Civic Authority Letters  
+	- **Purpose:** To lodge complaints or requests regarding local infrastructure, sanitation, or security.  
+		- (a) Municipality and Govt Agencies  
+		- (b) RWA (Resident Welfare Association)  
+- ### 3. Business Letters  
+	- **Purpose:** To deal business matters including inquiry, purchase and complaint.  
 		- (a) Inquiry  
-		- (b) Purchase/Order Placement
+		- (b) Purchase/Order Placement  
 		- (c) Complaint 
 - ### 4. Institution Letters 
 	- **Purpose:** Requests for leave, certificates, fee concessions, or reporting issues.
 		- School, College, University etc. 
 
-## IV. Common Mistakes to Avoid
+## IV. Common Mistakes to Avoid  
 1. Do **not** use an apostrophe in "Yours".  
 	- **Your's** = ❌  
 	- **Yours** = ✅  
-2. Ensure the **Subject** is clear and <ins>underlined</ins>.  
-3. Leave a blank line after each section.
+2. Ensure the **Subject** is clear and <ins>underlined</ins>.      
+3. Leave a blank line after each section.  
 
 ## V. Analysis of PYQ for Formal Letters
 
