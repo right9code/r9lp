@@ -32,22 +32,22 @@ All sections start from left corner.
 			Resident Welfare Association (RWA)  
 			Sagar Colony, Puranpur.  
 
-- ### 4. Subject
-	- E.g.
-		1. Subject: <ins>Regrading proposal for organizing community engagement activities.</ins>
-		2. Subject: <ins>Regarding appreciation for the voluntary community service camp and request for future programmes.</ins>
+- ### 4. Subject  
+	- E.g.  
+		1. Subject: <ins>Regrading proposal for organizing community engagement activities.</ins>  
+		2. Subject: <ins>Regarding appreciation for the voluntary community service camp and request for future programmes.</ins>  
 
 - ### 5. Salutation  
 	- E.g.  
 		1. Sir/Ma'am,  
 
-- ### 6. Body
+- ### 6. Body  
 	- **PARA 1**: Introduction : Purpose  
 	- **PARA 2**: Details : Cause/Effect  
 	- **PARA 3**: Conclusion : Suggestions/Requests  
 
-- ### 7. Complementary Close
-	- E.g.
+- ### 7. Complementary Close  
+	- E.g.  
 		1. Thanking you  
 		2. Thank you  
 
@@ -316,7 +316,7 @@ OR
 
 (b) **[Civic Authority: Municipality/Govt]** Inspite of repeated promises made by the authorities, potholes on the roads both internal and main streets have not been fixed. Poor, makeshift repair work was done which did not last beyond a week. This problem has led to many people having nasty falls and traffic congestion. Write a letter to your MLA drawing his attention to the problem. Remind him of his promise to repair the roads immediately to reduce inconvenience of the residents. You are Akshita / Aslam, Secretary RWA, Jaunaspuri.  
 
-(a) **[Civic Authority: RWA]** The bursting of the sewage pipe in your colony has led to an overflow of sewage making it impossible to travel on A2 and A3 streets of your colony. The stench is unbearable and the colony gates have to be closed leading to traffic jams. In addition, the overflowing sewage water has become a breeding ground for mosquitoes. As secretary RWA, you have been repeatedly complaining to the civic authorities but to no avail.
+(a) **[Civic Authority: RWA]** The bursting of the sewage pipe in your colony has led to an overflow of sewage making it impossible to travel on A2 and A3 streets of your colony. The stench is unbearable and the colony gates have to be closed leading to traffic jams. In addition, the overflowing sewage water has become a breeding ground for mosquitoes. As secretary RWA, you have been repeatedly complaining to the civic authorities but to no avail.  
 You are Shanti / Shantam of Kanchan Vihar. Write a letter to your local MLA requesting immediate action.  
 
 OR
@@ -340,82 +340,82 @@ OR
 
 OR
 
-(b) **[Institution Letters]** As John Silva/Jane Pereira of 64, Sangam Apartments, Sunrise Hills, you feel very unhappy at the poor maintenance of the public parks in your area. As a result children have no place to play and parents find it difficult to walk on the tracks. Write a letter to the CEO of Sunrise Hills, in about 120 words, expressing your concern at the situation and suggesting measures to resolve the issue of poor maintenance.
+(b) **[Institution Letters]** As John Silva/Jane Pereira of 64, Sangam Apartments, Sunrise Hills, you feel very unhappy at the poor maintenance of the public parks in your area. As a result children have no place to play and parents find it difficult to walk on the tracks. Write a letter to the CEO of Sunrise Hills, in about 120 words, expressing your concern at the situation and suggesting measures to resolve the issue of poor maintenance.  
 
-(a) **[Letter to Editor]** The problem of open manholes and drains in your locality is posing a threat to the lives of people. As a young citizen, who cares about the upkeep of the locality and safety of the residents, write a letter to the editor of a local daily, in about 120 words, expressing your concern at the situation and suggesting measures to resolve the problem and drawing attention of the concerned authorities. You are Sam/Karen of 67, Mist Apartments, Gagan Vihar, Akash Nagar.
+(a) **[Letter to Editor]** The problem of open manholes and drains in your locality is posing a threat to the lives of people. As a young citizen, who cares about the upkeep of the locality and safety of the residents, write a letter to the editor of a local daily, in about 120 words, expressing your concern at the situation and suggesting measures to resolve the problem and drawing attention of the concerned authorities. You are Sam/Karen of 67, Mist Apartments, Gagan Vihar, Akash Nagar.  
 
 OR
 
-(b) **[Civic Authority: RWA]** As Rohini Monga / Rohan Monga, of 43 Jai Apartments, Neerbagh, you feel that there should be a dedicated space in the community park for the senior citizens of the society, where they can gather. Write a letter to the RWA of your society in about 120 words, suggesting spaces in the park and emphasizing the importance of creating such a space.
+(b) **[Civic Authority: RWA]** As Rohini Monga / Rohan Monga, of 43 Jai Apartments, Neerbagh, you feel that there should be a dedicated space in the community park for the senior citizens of the society, where they can gather. Write a letter to the RWA of your society in about 120 words, suggesting spaces in the park and emphasizing the importance of creating such a space.  
 
 (a) **[Letter to Editor]** The household water supply in your locality is muddy and not fit for drinking. Despite several complaint letters to the civic authorities, the problem is still unresolved.
 Write a letter to the editor of a local daily, in about 120 words, expressing your concern at the situation and suggesting measures to resolve the problem and drawing attention of the concerned authorities.
-You are Somil / Soumya of 768, Silver Apartments, Ajitha Vihar, Karampeeth.
+You are Somil / Soumya of 768, Silver Apartments, Ajitha Vihar, Karampeeth.  
 
 OR
 
-(b) **[Civic Authority: RWA]** As Geetanjali / Girish of 83, Star Apartments, Virbagh, you have noticed that a lot of senior citizens in your society are leading lonely lives. Write a letter in about 120 words, to the President of RWA of your society, requesting him to organize more community get-togethers and celebrations to bring cheer to their lonely lives.
+(b) **[Civic Authority: RWA]** As Geetanjali / Girish of 83, Star Apartments, Virbagh, you have noticed that a lot of senior citizens in your society are leading lonely lives. Write a letter in about 120 words, to the President of RWA of your society, requesting him to organize more community get-togethers and celebrations to bring cheer to their lonely lives.  
 
-(a) **[Letter to Editor]** The roads in your locality have developed big potholes after the rains and have not been repaired. Despite several complaint letters to the civic authorities, the problem is still unresolved. Write a letter to the editor of a local daily, in about 120 words, expressing your concern at the situation and suggesting measures to resolve the problem and drawing attention of the concerned authorities. You are Maasumi / Mausan of 17, Crown Apartments, Harsh Vihar, Akash Nagar.
+(a) **[Letter to Editor]** The roads in your locality have developed big potholes after the rains and have not been repaired. Despite several complaint letters to the civic authorities, the problem is still unresolved. Write a letter to the editor of a local daily, in about 120 words, expressing your concern at the situation and suggesting measures to resolve the problem and drawing attention of the concerned authorities. You are Maasumi / Mausan of 17, Crown Apartments, Harsh Vihar, Akash Nagar.  
 
 OR
 
-(b) **[Civic Authority: RWA]** As Jignesh Silva / Punkhuri Shukl of 648, Sec-19, Sadar Nagar, you feel very unhappy and annoyed with the way bikes and cars are haphazardly parked in front of residential units causing inconvenience to residents. Write a letter to the RWA of your society in about 120 words, expressing your concern at the situation and suggesting measures to remove the nuisance.
+(b) **[Civic Authority: RWA]** As Jignesh Silva / Punkhuri Shukl of 648, Sec-19, Sadar Nagar, you feel very unhappy and annoyed with the way bikes and cars are haphazardly parked in front of residential units causing inconvenience to residents. Write a letter to the RWA of your society in about 120 words, expressing your concern at the situation and suggesting measures to remove the nuisance.  
 
 
 ### 2023 C
 
-(a) **[Letter to Editor]** You are Sudha/Santosh staying in Payal Bagh. Your house is facing the local market and the main road. Consequently there are a large number of children and adults begging in the market and the red light. Since there are a lot of eateries in the market, it is painful to see children of all ages begging. Write a letter in about 100 — 120 words to the editor of a national daily drawing attention to this problem. Express your concern regarding children not going to school, taking drugs and indulging in petty crime.
+(a) **[Letter to Editor]** You are Sudha/Santosh staying in Payal Bagh. Your house is facing the local market and the main road. Consequently there are a large number of children and adults begging in the market and the red light. Since there are a lot of eateries in the market, it is painful to see children of all ages begging. Write a letter in about 100 — 120 words to the editor of a national daily drawing attention to this problem. Express your concern regarding children not going to school, taking drugs and indulging in petty crime.  
 
 OR
 
-(b) **[Civic Authority: Municipality/Govt]** The recent monsoon has left behind a trail of woes — from potholes to blocked sewage and outbreak of malaria and dengue. This has not happened for the first time and residents have repeatedly complained about the issue. The bad roads and traffic jams are additional problems. Write a letter in about 100 — 120 words to the Commissioner, Public Works Department, drawing attention to the problems which seem to have become an annual affair with no hope of any relief. You are Rasili/Rashid.
+(b) **[Civic Authority: Municipality/Govt]** The recent monsoon has left behind a trail of woes — from potholes to blocked sewage and outbreak of malaria and dengue. This has not happened for the first time and residents have repeatedly complained about the issue. The bad roads and traffic jams are additional problems. Write a letter in about 100 — 120 words to the Commissioner, Public Works Department, drawing attention to the problems which seem to have become an annual affair with no hope of any relief. You are Rasili/Rashid.  
 
-(a) **[Letter to Editor]** In the recent years, Indian athletes have started to perform well in the international arena. To encourage sportsmen, it is important that the Government set up training institutes, better infrastructure, and award schemes to promote a sports culture amongst the youth today. You are Sarit/Sarita. Write a letter to the editor of a national daily in 100 — 120 words expressing your views on the Government's role in making India a sporting nation.
-
-OR
-
-(b) **[Civic Authority: RWA]** You are Vinni/Vicky. In your colony, the residents park their cars and scooters in a disorderly manner. In addition, outsiders too come and park their vehicles. This leads to traffic jams and frequent incidents of rage and violence. Write a letter in about 100 - 120 words to the President of the RWA to increase security at the gates to prevent outside vehicles from parking, give parking stickers and appeal to the residents to maintain civil behaviour.
-
-(a) **[Letter to Editor]** You are Ruchita/Ruchit. Write a letter in about 100 — 120 words to the editor of a leading daily, voicing your concern about the increasing cost of living, rise in prices of daily edible items and other products. The common man whose earning does not increase correspondingly is hit hard in these circumstances and even resorts to desperate measures. There is an increase in unemployment and petty crime.
+(a) **[Letter to Editor]** In the recent years, Indian athletes have started to perform well in the international arena. To encourage sportsmen, it is important that the Government set up training institutes, better infrastructure, and award schemes to promote a sports culture amongst the youth today. You are Sarit/Sarita. Write a letter to the editor of a national daily in 100 — 120 words expressing your views on the Government's role in making India a sporting nation.  
 
 OR
 
-(b) **[Business Letter: Complaint]** Your school is organising an inter-school cricket tournament. You had placed an order of cricket equipment for your team. However, when the items arrived they were not as per the order placed. The cricket bats were of inferior quality and the gloves and balls, of a different company. Write a letter in 100 — 120 words to the Manager of Sporting World informing him of the mistake.
+(b) **[Civic Authority: RWA]** You are Vinni/Vicky. In your colony, the residents park their cars and scooters in a disorderly manner. In addition, outsiders too come and park their vehicles. This leads to traffic jams and frequent incidents of rage and violence. Write a letter in about 100 - 120 words to the President of the RWA to increase security at the gates to prevent outside vehicles from parking, give parking stickers and appeal to the residents to maintain civil behaviour.  
+
+(a) **[Letter to Editor]** You are Ruchita/Ruchit. Write a letter in about 100 — 120 words to the editor of a leading daily, voicing your concern about the increasing cost of living, rise in prices of daily edible items and other products. The common man whose earning does not increase correspondingly is hit hard in these circumstances and even resorts to desperate measures. There is an increase in unemployment and petty crime.  
+
+OR
+
+(b) **[Business Letter: Complaint]** Your school is organising an inter-school cricket tournament. You had placed an order of cricket equipment for your team. However, when the items arrived they were not as per the order placed. The cricket bats were of inferior quality and the gloves and balls, of a different company. Write a letter in 100 — 120 words to the Manager of Sporting World informing him of the mistake.  
 
 ### 2023
 
-(a) **[Civic Authority: Municipality/Govt]** You are pained to see that in your city, there is no proper arrangement for cleaning of drains. There are heaps of accumulated garbage and stagnant water. Write a letter to the Municipal Commissioner of your city complaining about the same as there is a fear of outbreak of disease. You are Alka/Ashish. (Word limit 100-120)
+(a) **[Civic Authority: Municipality/Govt]** You are pained to see that in your city, there is no proper arrangement for cleaning of drains. There are heaps of accumulated garbage and stagnant water. Write a letter to the Municipal Commissioner of your city complaining about the same as there is a fear of outbreak of disease. You are Alka/Ashish. (Word limit 100-120)  
 
 OR
 
-(b) **[Letter to Editor]** The authorities have been claiming that the roads in your town have been relaid and repaired. But no such work done is seen. Write a letter to the editor of a local newspaper expressing your concern at the present situation and giving suggestions to resolve the problem, in 100-120 words. You are Prabhu/Parvati of Vivek Vihar, Delhi.
+(b) **[Letter to Editor]** The authorities have been claiming that the roads in your town have been relaid and repaired. But no such work done is seen. Write a letter to the editor of a local newspaper expressing your concern at the present situation and giving suggestions to resolve the problem, in 100-120 words. You are Prabhu/Parvati of Vivek Vihar, Delhi.  
 
-(a) **[Business Letter: Complaint]** You have purchased a computer for personal use. After using it for about a month, you have started having problems in it, like its CPU is not working properly, screen is flickering etc. Write a letter to the manager of the complaint cell of Abott Computers Pvt. Ltd. about the faulty computer in about 100-120 words. Sign yourself as Dev/Devika of Janakpuri, Delhi.
-
-OR
-
-(b) **[Letter to Editor]** You feel that the Right to Education is going to help India rise above the narrow boundaries of prejudices of caste, colour, creed and corruption. Write a letter to the editor of The Times of India, reflecting your views on the subject. Sign yourself as Nandita/Naveen of Paschim Vihar, Delhi (word limit 100-120).
-
-(a) **[Business Letter: Inquiry]** You want to surprise your family by taking them abroad during the summer vacation. Write a letter to the Manager of “Tour the World” Majestic Complex, Mount Road, Chennai — 600 002 asking details of places to visit, hotels, cost, etc. You are Vivek/Viveka living in Usman Road, T-Nagar. Write the letter in about 100-120 words.
+(a) **[Business Letter: Complaint]** You have purchased a computer for personal use. After using it for about a month, you have started having problems in it, like its CPU is not working properly, screen is flickering etc. Write a letter to the manager of the complaint cell of Abott Computers Pvt. Ltd. about the faulty computer in about 100-120 words. Sign yourself as Dev/Devika of Janakpuri, Delhi.  
 
 OR
 
-(b) **[Letter to Editor]** Auto rickshaws and vans overcrowded with precariously seated children, is not an uncommon sight in cities today. Write a letter to the editor of a newspaper highlighting this dangerous practice and urging authorities to take steps to curb this. Write the letter in 100-120 words as Sushant/Sunanda of Rani Bagh, Delhi.
+(b) **[Letter to Editor]** You feel that the Right to Education is going to help India rise above the narrow boundaries of prejudices of caste, colour, creed and corruption. Write a letter to the editor of The Times of India, reflecting your views on the subject. Sign yourself as Nandita/Naveen of Paschim Vihar, Delhi (word limit 100-120).  
 
-(a) **[Letter to Editor]** You are Mohit/Mohita of E-46, Shalimar Bagh, Delhi. You came across news articles about neglect of elders in today’s society. Disturbed after reading the articles, you decide to write a letter to the editor of ‘The Hindustan Times’ stressing upon the need of sensitizing children to the plight and loneliness of the elders and to inculcate in them values of caring and sharing. You can also express your views on strengthening of family values. Write your letter in 100 — 120 words.
-
-OR
-
-(b) **[Others]** You are Rajni/Rakesh Kothari, Director, Marketing in Oil Spices Manufacturing Unit. You have observed the commitment with which your Assistant Manager works. Write a letter in 100 — 120 words to your Assistant Manager, Sadiq Qureshi, congratulating him on his work ethic and professional approach. Also include a mention of his commitment, sense of responsibility, good inter-personal skills and his spirit of team work..
-
-(a) **[Letter to Editor]** You are Armaan/Anjali of C-63, Panvel. You recently read a magazine article which highlighted the condition of underage children working in hazardous conditions. Instead of going to school, they are working in dimly lit factories, tea stalls, in garages, etc. to supplement family incomes. Write a letter to the editor of “The Times of India” in about 100 — 120 words, drawing attention to this national problem and suggesting solutions.
+(a) **[Business Letter: Inquiry]** You want to surprise your family by taking them abroad during the summer vacation. Write a letter to the Manager of “Tour the World” Majestic Complex, Mount Road, Chennai — 600 002 asking details of places to visit, hotels, cost, etc. You are Vivek/Viveka living in Usman Road, T-Nagar. Write the letter in about 100-120 words.  
 
 OR
 
-(b) **[Business Letter: Complaint]** You are Rohit/Riya of Hauz Khas, New Delhi. You bought a pair of shoes from M/s. Shoe Factory, GK-II, New Delhi. On unpacking them, you found to your amazement that both the shoes are meant for your left foot. Write a letter of complaint to the Manager of M/s. Shoe Factory asking for replacement at their cost. (Word limit: 100 — 120 words)
+(b) **[Letter to Editor]** Auto rickshaws and vans overcrowded with precariously seated children, is not an uncommon sight in cities today. Write a letter to the editor of a newspaper highlighting this dangerous practice and urging authorities to take steps to curb this. Write the letter in 100-120 words as Sushant/Sunanda of Rani Bagh, Delhi.  
 
-(a) **[Letter to Editor]** You are Sonw/Sonali, living in 43 B, Dilshad Garden, Delhi. You happen to see a news item in the newspaper about the popularity of Indian handicrafts abroad. However, you are unhappy about the lack of recognition given to the artisans by the Government. This is leading to the dying of traditional forms of art and craft. Write a letter to the editor of ‘The Times of India’ in about 100 — 120 words about the difficulties faced by the artisans and suggest ways to revive and popularize Indian indigenous products. You may use the information given below.
+(a) **[Letter to Editor]** You are Mohit/Mohita of E-46, Shalimar Bagh, Delhi. You came across news articles about neglect of elders in today’s society. Disturbed after reading the articles, you decide to write a letter to the editor of ‘The Hindustan Times’ stressing upon the need of sensitizing children to the plight and loneliness of the elders and to inculcate in them values of caring and sharing. You can also express your views on strengthening of family values. Write your letter in 100 — 120 words.  
+
+OR
+
+(b) **[Others]** You are Rajni/Rakesh Kothari, Director, Marketing in Oil Spices Manufacturing Unit. You have observed the commitment with which your Assistant Manager works. Write a letter in 100 — 120 words to your Assistant Manager, Sadiq Qureshi, congratulating him on his work ethic and professional approach. Also include a mention of his commitment, sense of responsibility, good inter-personal skills and his spirit of team work.  
+
+(a) **[Letter to Editor]** You are Armaan/Anjali of C-63, Panvel. You recently read a magazine article which highlighted the condition of underage children working in hazardous conditions. Instead of going to school, they are working in dimly lit factories, tea stalls, in garages, etc. to supplement family incomes. Write a letter to the editor of “The Times of India” in about 100 — 120 words, drawing attention to this national problem and suggesting solutions.  
+
+OR
+
+(b) **[Business Letter: Complaint]** You are Rohit/Riya of Hauz Khas, New Delhi. You bought a pair of shoes from M/s. Shoe Factory, GK-II, New Delhi. On unpacking them, you found to your amazement that both the shoes are meant for your left foot. Write a letter of complaint to the Manager of M/s. Shoe Factory asking for replacement at their cost. (Word limit: 100 — 120 words)  
+
+(a) **[Letter to Editor]** You are Sonw/Sonali, living in 43 B, Dilshad Garden, Delhi. You happen to see a news item in the newspaper about the popularity of Indian handicrafts abroad. However, you are unhappy about the lack of recognition given to the artisans by the Government. This is leading to the dying of traditional forms of art and craft. Write a letter to the editor of ‘The Times of India’ in about 100 — 120 words about the difficulties faced by the artisans and suggest ways to revive and popularize Indian indigenous products. You may use the information given below.  
 
 | INDIAN HANDICRAFTS SOUGHT AFTER<br>New Delhi : Indian handicrafts are in great demand in the US, Europe and the Gulf countries. However, the artisans feel their products are not given the required publicity. Further, the products are bought from them at very low prices by the middlemen and sold later at much higher prices abroad. The artisans hope that the Government would do something in this regard.<br> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -423,7 +423,7 @@ OR
 OR
 
 (b) **[Letter to Editor]** You are Ajay/Anita of Diwan Public School, Moga, Punjab, who had arranged a trip of forty students to Shimla during the summer vacation for a week with 'Madan Travels and Tours'. The arrangements done by the travel agency were far below standard. The accommodation and food facilities were inferior in quality. Write a letter of complaint to the Director of the agency to stop duping the tourists with fake promises.
-(Word limit: 100 — 120 words)
+(Word limit: 100 — 120 words)  
 
 (a) **[Letter to Editor]** Technology today is an effective and convenient means of learning.
 TECHNOLOGY IN EDUCATION
@@ -433,7 +433,7 @@ TECHNOLOGY IN EDUCATION
 | - Improves engagement and<br>retention.<br>- Promotes interactive<br>collaborative learning<br>- Prepares students for the<br>future<br>- Reduces costs<br>Promotes technological skills<br>- Provides current information<br> | - Distracting<br>- Reduces problem solving skills<br>- Reduces direct peer interaction<br>- Expensive to maintain<br>- Information may not be<br>authentic<br>- Communication<br> |
 
 You are Meera/Vaibhav and would like to share your views on the pros and cons of technology in education.
-Write a letter to the Editor of a newspaper expressing your views in about 100 -120 words.
+Write a letter to the Editor of a newspaper expressing your views in about 100 -120 words.  
 
 OR
 
@@ -443,111 +443,111 @@ Write a letter to enquire about the following:
 - Sight seeing itinerary
 - Cost of package discount
 - Mode of transport
-- Destinations being offered
+- Destinations being offered  
 
 
 (a) **[Letter to Editor]** Stakeholders associated with education of children are concerned about the poor reading habits of students today. There are multiple reasons for this disinterest in students. Academic pressure, technology and distraction, social media, parents don’t read, children don’t visit libraries, lack of leisure time are some of the reasons.
-As a concerned parent write a letter to the editor in about 100-120 words, expressing your concern. Suggest innovative ways in which children can be brought back to books. You are Sahil/Sushila.
+As a concerned parent write a letter to the editor in about 100-120 words, expressing your concern. Suggest innovative ways in which children can be brought back to books. You are Sahil/Sushila.  
 
 OR
 
 (b) **[Business Letter: Inquiry]** You are Aruna/Arjun C.C.A. incharge of St. Joseph’s High School. You have read an advertisement in a newspaper regarding admission into a foreign languages institute.
-Write a letter in about 100-120 words to the Director of the institute ‘Lingua for All’ making relevant inquires:
-- Eligibility
-- Duration of Course
-- Time Schedule
-- Fee Structure
-- Faculty
-- Placement
+Write a letter in about 100-120 words to the Director of the institute ‘Lingua for All’ making relevant inquires:  
+- Eligibility  
+- Duration of Course  
+- Time Schedule  
+- Fee Structure  
+- Faculty  
+- Placement  
 
 (a) **[Letter to Editor]** Today the ratio of car to house member is one is to one. This has led to parking issues in colonies. Cars are parked on the road which narrows road space leading to congestion.
 You have read about incidents of short-tempered brawls and physical violence in colonies because of lack of parking space.
-Write a letter to the editor of ‘Times of India’ in about 100-120 words, drawing attention to this problem and what measures can be taken to resolve the problem. You are Sharan/Sunita from Maya Nagar.
+Write a letter to the editor of ‘Times of India’ in about 100-120 words, drawing attention to this problem and what measures can be taken to resolve the problem. You are Sharan/Sunita from Maya Nagar.  
 
 OR
 
 (b) **[Business Letter: Complaint]** You are Rita/Rahul, you purchased a T.V. set from Capital Electronics. However after a month the T.V. set stopped working properly. The volume could not be adjusted and the screen kept going dark.
-Write a letter of complaint to the Manager of the store asking them to send a technician and if required replace the T.V. set since it was within warranty period.
+Write a letter of complaint to the Manager of the store asking them to send a technician and if required replace the T.V. set since it was within warranty period.  
 
-(a) **[Letter to Editor]** You are Swati/Soham living at 14, DLF, Phase III, Gurugram. Your streets and roads get waterlogged during the monsoon season every year. Cars stall, drains overflow and traffic comes to a standstill. It is difficult to lead a normal life and this adds to you woes. Write a letter in 100 — 120 words to the editor, ‘The Times of India’, highlighting the problems and suggesting measures to control the problem.
-
-OR
-
-(b) **[Civic Authority: RWA]** You are Rita/Rahul living at Sunder Colony, Agra. The stray dogs in your colony are regularly fed and vaccinated by the RWA of the colony. You are disturbed to see your neighbours treating these dogs badly. Write a letter in 100 — 120 words to the President of the Society complaining against the rough treatment meted to them and how it impacts the behaviour of the dogs who are otherwise very docile.
-
-(a) **[Letter to Editor]** You are Preeti/Pramod residing at Green View Apartments, Pune. The rising prices of daily commodities have added to the problems of the common man who is finding it difficult to meet his daily needs. Write a letter to the editor of a national daily in 100 — 120 words voicing the problems you are facing because of this inflation and requesting the concerned authorities to look into the matter.
+(a) **[Letter to Editor]** You are Swati/Soham living at 14, DLF, Phase III, Gurugram. Your streets and roads get waterlogged during the monsoon season every year. Cars stall, drains overflow and traffic comes to a standstill. It is difficult to lead a normal life and this adds to you woes. Write a letter in 100 — 120 words to the editor, ‘The Times of India’, highlighting the problems and suggesting measures to control the problem.  
 
 OR
 
-(b) **[Business Letter: Inquiry]** You are Reema/Rajesh living at Mayur Colony, Mumbai. Write a letter of enquiry in 100 — 120 words to the Director of National Science Centre, Mumbai, to gather relevant information as you are interested in joining their Astronomy Club. Inquire about eligibility, activities, frequency of meetings and other details.
+(b) **[Civic Authority: RWA]** You are Rita/Rahul living at Sunder Colony, Agra. The stray dogs in your colony are regularly fed and vaccinated by the RWA of the colony. You are disturbed to see your neighbours treating these dogs badly. Write a letter in 100 — 120 words to the President of the Society complaining against the rough treatment meted to them and how it impacts the behaviour of the dogs who are otherwise very docile.  
+
+(a) **[Letter to Editor]** You are Preeti/Pramod residing at Green View Apartments, Pune. The rising prices of daily commodities have added to the problems of the common man who is finding it difficult to meet his daily needs. Write a letter to the editor of a national daily in 100 — 120 words voicing the problems you are facing because of this inflation and requesting the concerned authorities to look into the matter.  
+
+OR
+
+(b) **[Business Letter: Inquiry]** You are Reema/Rajesh living at Mayur Colony, Mumbai. Write a letter of enquiry in 100 — 120 words to the Director of National Science Centre, Mumbai, to gather relevant information as you are interested in joining their Astronomy Club. Inquire about eligibility, activities, frequency of meetings and other details.  
 
 (a) **[Business Letter: Inquiry]** You are Anita/Ashok. You came across the following advertisement:
 
 | Manthan: We Lead the Future Leaders<br>Web designing is not only about creating the best pages and displaying content. It is about converting the idea and turning it into a beautiful website.<br> |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-Write a letter in 100 — 120 words to the Director, Manthan, inquiring about their short-term courses and asking for all necessary details such as eligibility, duration, fees and placement services.
+Write a letter in 100 — 120 words to the Director, Manthan, inquiring about their short-term courses and asking for all necessary details such as eligibility, duration, fees and placement services.  
 
 OR
 
-(b) **[Letter to Editor]** You are Rachna/Ramesh living at Maya Enclave, New Delhi. There have been a spate of chain snatching incidents in your colony by young boys riding bikes. Write a letter in 100 — 120 words to the editor of the colony newsletter drawing attention to the increase in the number of petty crimes in the colony. Mention the insecurity felt by the residents and suggest strict security measures to be introduced.
+(b) **[Letter to Editor]** You are Rachna/Ramesh living at Maya Enclave, New Delhi. There have been a spate of chain snatching incidents in your colony by young boys riding bikes. Write a letter in 100 — 120 words to the editor of the colony newsletter drawing attention to the increase in the number of petty crimes in the colony. Mention the insecurity felt by the residents and suggest strict security measures to be introduced.  
 
 (a) **[Letter to Editor]** You are Rohit / Rohini of A-45, Pitampura, Delhi. You observed that the subways in Delhi are seldom used by pedestrians who are always trying to cut across traffic. You have decided to write a letter to the editor of ‘Hindustan Times’ highlighting the dire need of creating awareness about it. Based on the points given along with your own ideas write a letter in 100-120 words.
-- infrastructure unutilized
-- pedestrians prone to accidents
-- accumulation of stagnant water/garbage in subways
-- need for improvement and regular cleanliness under proper supervision.
+- infrastructure unutilized  
+- pedestrians prone to accidents  
+- accumulation of stagnant water/garbage in subways  
+- need for improvement and regular cleanliness under proper supervision.  
 
 OR
 
-(b) **[Business Letter: Inquiry]** You are Shivam / Shivani of C-12, Janakpuri, Indore. You wish to make a pilgrimage to Badrinath, Kedarnath and Haridwar with your family of six. Write a letter to R.K. Travels, enquiring about the schedule of their conducted tour by Deluxe buses to these places. Ask about the charges, boarding and lodging arrangements and the total time needed for the tour. (Word limit 100-120 words)
+(b) **[Business Letter: Inquiry]** You are Shivam / Shivani of C-12, Janakpuri, Indore. You wish to make a pilgrimage to Badrinath, Kedarnath and Haridwar with your family of six. Write a letter to R.K. Travels, enquiring about the schedule of their conducted tour by Deluxe buses to these places. Ask about the charges, boarding and lodging arrangements and the total time needed for the tour. (Word limit 100-120 words)  
 
-(a) **[Letter to Editor]** When you think about your city, you feel proud of its historical monuments, places of cultural interest, shopping centres and beautiful parks. Write a letter in 100-120 words to the editor of a national daily expressing your views on ‘Your City’. Also suggest ways to increase footfall to these places like the government’s recent initiative of free entry to all historical monuments on the occasion 75% Independence Day. You are Sangeeta / Sanjay, 45 Vijay Nagar, Delhi. (Word limit 100 — 125 words)
-
-OR
-
-(b) **[Business Letter: Inquiry]** You are Ankit / Ankita of Mahavir Public School, Delhi. You have seen an advertisement in ‘The Times of India’ regarding the starting of new batches of ‘Astronomy Club’ by the National Science Centre. You wish to join the club. Write a letter to the Director, enquiring about the venue, duration, fee-structure, activities, etc. (Word limit 100-125 words)
-
-(a) **[Letter to Editor]** You are Anita / Anil of Panday Park. You recently worked on a school project on the powerful impact of media in promoting national integration. Write a letter to the editor of The Hindu, sharing your views on the role of media. Word limit 100-120 words.
+(a) **[Letter to Editor]** When you think about your city, you feel proud of its historical monuments, places of cultural interest, shopping centres and beautiful parks. Write a letter in 100-120 words to the editor of a national daily expressing your views on ‘Your City’. Also suggest ways to increase footfall to these places like the government’s recent initiative of free entry to all historical monuments on the occasion 75% Independence Day. You are Sangeeta / Sanjay, 45 Vijay Nagar, Delhi. (Word limit 100 — 125 words)  
 
 OR
 
-(b) **[Institution Letters]** You are Kamal / Kanishka living at G-59, Kirti Nagar. Write a letter to the Principal I.T.I Pusa in about 100-120 words, enquiring about the diploma course available in the institution, the duration of the course, the fee-structure, placement services and the admission process.
+(b) **[Business Letter: Inquiry]** You are Ankit / Ankita of Mahavir Public School, Delhi. You have seen an advertisement in ‘The Times of India’ regarding the starting of new batches of ‘Astronomy Club’ by the National Science Centre. You wish to join the club. Write a letter to the Director, enquiring about the venue, duration, fee-structure, activities, etc. (Word limit 100-125 words)  
+
+(a) **[Letter to Editor]** You are Anita / Anil of Panday Park. You recently worked on a school project on the powerful impact of media in promoting national integration. Write a letter to the editor of The Hindu, sharing your views on the role of media. Word limit 100-120 words.  
+
+OR
+
+(b) **[Institution Letters]** You are Kamal / Kanishka living at G-59, Kirti Nagar. Write a letter to the Principal I.T.I Pusa in about 100-120 words, enquiring about the diploma course available in the institution, the duration of the course, the fee-structure, placement services and the admission process.  
 
 ### 2022 C
 (a) **[Business Letter: Inquiry]** The recent pandemic has reinforced the importance of health and exercise. The Resident Welfare Association of Green Park has decided to organise Yoga classes. Write a letter to the Manager ‘Yogshalaya’ enquiring about trainers, individual/group sessions, time slots and costs involved along with other relevant details.
-You are Rakesh/Ritika Mathur, 721, Green Park, New Delhi.
+You are Rakesh/Ritika Mathur, 721, Green Park, New Delhi.  
 
 ### 2022
 
-(a) **[Business Letter: Inquiry]** You are Rita/Rahul and you came across the following information on your local club notice-board.
+(a) **[Business Letter: Inquiry]** You are Rita/Rahul and you came across the following information on your local club notice-board.  
 
 | **Better Living**<br>How to tackle stress, build concentration and remain fit and healthy — Yoga, a way of life — Join free yoga camp for students.<br> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-You wish to enroll but require more information. Write a letter to the Yoga Institute, M.G. Road, Pune, enquiring details of timing, batch size, eligibility, etc. for joining the course.
+You wish to enroll but require more information. Write a letter to the Yoga Institute, M.G. Road, Pune, enquiring details of timing, batch size, eligibility, etc. for joining the course.  
 
-(b) **[Business Letter: Order Placement]** You are Sudha/Sudhir, Principal of Vasant School, Agra. Your school has started a Music Department. Write a letter to the Manager of Melody House, M.G. Road, Agra, wholesale suppliers of musical instruments, placing a detailed order for five musical instruments for the school. Ask for a discount on the catalogue price.
+(b) **[Business Letter: Order Placement]** You are Sudha/Sudhir, Principal of Vasant School, Agra. Your school has started a Music Department. Write a letter to the Manager of Melody House, M.G. Road, Agra, wholesale suppliers of musical instruments, placing a detailed order for five musical instruments for the school. Ask for a discount on the catalogue price.  
 
-(c) **[Business Letter: Inquiry]** You are Ankita/Ankit. You wish to pursue a course on ‘Data Science’. Write a letter to the Director, Scaler Data Science, enquiring about the eligibility, duration, fee, scholarship and placement, etc.
+(c) **[Business Letter: Inquiry]** You are Ankita/Ankit. You wish to pursue a course on ‘Data Science’. Write a letter to the Director, Scaler Data Science, enquiring about the eligibility, duration, fee, scholarship and placement, etc.  
 
-(d) **[Business Letter: Order Placement]** You are Niharika, Incharge of the Neighbourhood Library for children. Write a letter to Manautal Publishers placing an order for books 2 sets each of Panchatantra and Amar Chitra Katha in about 120 words. Mention mode of payment, library discount and date of delivery.
+(d) **[Business Letter: Order Placement]** You are Niharika, Incharge of the Neighbourhood Library for children. Write a letter to Manautal Publishers placing an order for books 2 sets each of Panchatantra and Amar Chitra Katha in about 120 words. Mention mode of payment, library discount and date of delivery.  
 
-(e) **[Business Letter: Order Placement]** You are Niharika, Incharge of the Neighbourhood Library for children. Write a letter to Manautal Publishers placing an order for books 2 sets each of Panchatantra and Amar Chitra Katha in about 120 words. Mention mode of payment, library discount and date of delivery.
+(e) **[Business Letter: Order Placement]** You are Niharika, Incharge of the Neighbourhood Library for children. Write a letter to Manautal Publishers placing an order for books 2 sets each of Panchatantra and Amar Chitra Katha in about 120 words. Mention mode of payment, library discount and date of delivery.  
 
-(f) **[Business Letter: Order Placement]** You are Niharika, Incharge of the Neighbourhood Library for children. Write a letter to Manautal Publishers placing an order for books 2 sets each of Panchatantra and Amar Chitra Katha in about 120 words. Mention mode of payment, library discount and date of delivery.
+(f) **[Business Letter: Order Placement]** You are Niharika, Incharge of the Neighbourhood Library for children. Write a letter to Manautal Publishers placing an order for books 2 sets each of Panchatantra and Amar Chitra Katha in about 120 words. Mention mode of payment, library discount and date of delivery.  
 
-(g) **[Business Letter: Inquiry]** You are Sujata/Sudhir, Secretary of the Student Council, Nav Vihar Public School, Mumbai. You are planning an excursion to Jim Corbett National Park for students. Write a letter to the Director, Tourism Department, Jim Corbett National Park, enquiring about a package for 100 students which would include transportation, sightseeing, boarding and lodging for 4 nights.
+(g) **[Business Letter: Inquiry]** You are Sujata/Sudhir, Secretary of the Student Council, Nav Vihar Public School, Mumbai. You are planning an excursion to Jim Corbett National Park for students. Write a letter to the Director, Tourism Department, Jim Corbett National Park, enquiring about a package for 100 students which would include transportation, sightseeing, boarding and lodging for 4 nights.  
 
-(h) **[Business Letter: Inquiry]** You are Ankita/Ankit, Computer In-charge of Maharani Public School, Bangalore. Blackboards are to be replaced by smart boards. You wish to place an order for fifteen smart boards and computer accessories. Write a letter of enquiry to Ensonic Computech, MG. Road, Bangalore enquiring about prices, discounts and after sales service.
+(h) **[Business Letter: Inquiry]** You are Ankita/Ankit, Computer In-charge of Maharani Public School, Bangalore. Blackboards are to be replaced by smart boards. You wish to place an order for fifteen smart boards and computer accessories. Write a letter of enquiry to Ensonic Computech, MG. Road, Bangalore enquiring about prices, discounts and after sales service.  
 
 (i) **[Business Letter: Order Placement]** You are Meera/Madhur, librarian of Vidya Bharti, Cantt Road, Lucknow. Write a letter to Oxford Publication placing a detailed order of textbooks for classes 6th — 8th for your school library.
-Mention subjects and quantity. Ask for a discount on the catalogue price.
+Mention subjects and quantity. Ask for a discount on the catalogue price.  
 
-(j) **[Business Letter: Order Placement]** You are Vikram/Vanya, Librarian, B.S. Public School, Delhi. Write a letter to the Manager of Amar Publication House, Mumbai, placing an order for 4 sets of Social Studies books for grades 6-8 published by N.CERT. in not more than 120 words. Mention school discount, mode of payment and date of delivery.
+(j) **[Business Letter: Order Placement]** You are Vikram/Vanya, Librarian, B.S. Public School, Delhi. Write a letter to the Manager of Amar Publication House, Mumbai, placing an order for 4 sets of Social Studies books for grades 6-8 published by N.CERT. in not more than 120 words. Mention school discount, mode of payment and date of delivery.  
 
-(k) **[Business Letter: Order Placement]** You are Vikram/Vanya, Librarian, B.S. Public School, Delhi. Write a letter to the Manager of Amar Publication House, Mumbai, placing an order for 4 sets of Social Studies books for grades 6-8 published by N.CERT. in not more than 120 words. Mention school discount, mode of payment and date of delivery.
+(k) **[Business Letter: Order Placement]** You are Vikram/Vanya, Librarian, B.S. Public School, Delhi. Write a letter to the Manager of Amar Publication House, Mumbai, placing an order for 4 sets of Social Studies books for grades 6-8 published by N.CERT. in not more than 120 words. Mention school discount, mode of payment and date of delivery.  
 
-(l) **[Business Letter: Order Placement]** You are Vikram/Vanya, Librarian, B.S. Public School, Delhi. Write a letter to the Manager of Amar Publication House, Mumbai, placing an order for 4 sets of Social Studies books for grades 6-8 published by N.CERT. in not more than 120 words. Mention school discount, mode of payment and date of delivery.
+(l) **[Business Letter: Order Placement]** You are Vikram/Vanya, Librarian, B.S. Public School, Delhi. Write a letter to the Manager of Amar Publication House, Mumbai, placing an order for 4 sets of Social Studies books for grades 6-8 published by N.CERT. in not more than 120 words. Mention school discount, mode of payment and date of delivery.  
 
 
 
