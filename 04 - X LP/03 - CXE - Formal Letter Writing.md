@@ -6,7 +6,7 @@
 *   **Marks:** 5 Marks.
 *   **Marks Distribution:** Format+Content+Expression = 1+2+2 = 5 Marks.
 *   **Tone:** Formal, polite, and objective. No slang or abbreviations.
-*   **Writing Style**: Passive voice preferred
+*   **Writing Style:** Passive voice preferred
 
 ## II. Format of a Formal Letter
 All sections start from left corner.
@@ -48,8 +48,8 @@ All sections start from left corner.
 
 - ### 7. Complementary Close
 	- E.g.
-		1. Thanking you,
-		2. Thank you,
+		1. Thanking you  
+		2. Thank you  
 
 - ### 8. Subscription 
 	- E.g.
@@ -113,110 +113,110 @@ All sections start from left corner.
 
 ### 2025 C
 
-(a) **[Civic Authority: Municipality/Govt]** You are disturbed by the poor reading habits of school children today. As a result, communication is impacted, which will have far-reaching consequences. As Shivika/Shiv Gupta of 21, Valley Apartments, Shaambagh, write a letter in about 120 words to the Municipal Councillor of your area, requesting him to create and maintain public libraries as reading zones. Also suggest how community members can support such projects.
+(a) **[Civic Authority: Municipality/Govt]** You are disturbed by the poor reading habits of school children today. As a result, communication is impacted, which will have far-reaching consequences. As Shivika/Shiv Gupta of 21, Valley Apartments, Shaambagh, write a letter in about 120 words to the Municipal Councillor of your area, requesting him to create and maintain public libraries as reading zones. Also suggest how community members can support such projects.  
 
 OR
 
-(b) **[Letter to Editor]** As Nilima/Nilesh, Sports Secretary of Red Tree Public School, Aakashpur, you believe that the youth today must actively involve itself in sports and other physical activities. Write a letter to the editor of a national daily in about 120 words, suggesting that stadiums and sports centres should be made available to the students to promote participation in sports.
+(b) **[Letter to Editor]** As Nilima/Nilesh, Sports Secretary of Red Tree Public School, Aakashpur, you believe that the youth today must actively involve itself in sports and other physical activities. Write a letter to the editor of a national daily in about 120 words, suggesting that stadiums and sports centres should be made available to the students to promote participation in sports.  
 
-(a) **[Letter to Editor]** In recent years, there has been a spurt in the commercialization of residential properties. This is a cause of great nuisance and annoyance to the residents in the adjoining areas. Write a letter to the editor of a national newspaper, in about 120 words, drawing attention to the growing problem in the city and the inconveniences that follow. You are Ritika/Ritik, residing at 46, New Town, Roshnipur.
-
-OR
-
-(b) **[Civic Authority: Municipality/Govt]** Write a letter in about 120 words to the Chairman, Sports Authority of your city. Draw his attention to the poor sports facilities for the public. Mention the disadvantages of the situation, and give suggestions on how sports infrastructure can be improved. You are Sujata/Shreyas, residing at 8-A, Sea View Apartments, Samudrashahar.
-
-(a) **[Civic Authority: RWA]** To encourage community engagement and involvement of children, you would like to organise some activities in the colony. You are Prerna/Prasoon, a resident of 36, Sagar Colony, Poornapur. Write a letter in about 120 words to the President of the Resident Welfare Association, emphasizing the need for such programmes. Give suggestions of the kind of programmes you would like to organise, e.g., cyclothon, painting competition, senior citizen meets, etc.
+(a) **[Letter to Editor]** In recent years, there has been a spurt in the commercialization of residential properties. This is a cause of great nuisance and annoyance to the residents in the adjoining areas. Write a letter to the editor of a national newspaper, in about 120 words, drawing attention to the growing problem in the city and the inconveniences that follow. You are Ritika/Ritik, residing at 46, New Town, Roshnipur.  
 
 OR
 
-(b) **[Institution Letters]** To sensitize children to the concept of sharing and caring, the school introduced a voluntary community service camp during the summer vacation. As a parent of a volunteer, write a letter in about 120 words to the Principal, appreciating the activity. Give details of the programme that took place and urge the Principal to hold such programmes in the future as they benefit the overall development of the children. You are Tarini/Tarun, a resident of A-6/IV, Green Colony, Hawapur.
+(b) **[Civic Authority: Municipality/Govt]** Write a letter in about 120 words to the Chairman, Sports Authority of your city. Draw his attention to the poor sports facilities for the public. Mention the disadvantages of the situation, and give suggestions on how sports infrastructure can be improved. You are Sujata/Shreyas, residing at 8-A, Sea View Apartments, Samudrashahar.  
+
+(a) **[Civic Authority: RWA]** To encourage community engagement and involvement of children, you would like to organise some activities in the colony. You are Prerna/Prasoon, a resident of 36, Sagar Colony, Poornapur. Write a letter in about 120 words to the President of the Resident Welfare Association, emphasizing the need for such programmes. Give suggestions of the kind of programmes you would like to organise, e.g., cyclothon, painting competition, senior citizen meets, etc.  
+
+OR
+
+(b) **[Institution Letters]** To sensitize children to the concept of sharing and caring, the school introduced a voluntary community service camp during the summer vacation. As a parent of a volunteer, write a letter in about 120 words to the Principal, appreciating the activity. Give details of the programme that took place and urge the Principal to hold such programmes in the future as they benefit the overall development of the children. You are Tarini/Tarun, a resident of A-6/IV, Green Colony, Hawapur.  
 
 ### 2025 
  
- (a) **[Civic Authority: Municipality/Govt]** You are Soumya Hansal / Sumit Hansal living at F-32, Shanti Nagar, Vayugarh. Seeing the inadequate healthcare infrastructure in your town, write a letter to the MLA of your area, in about 120 words, suggesting the need for improving existing healthcare facilities and creating more ‘‘Wellness Centres’’ including a specialized hospital for children and women.
+ (a) **[Civic Authority: Municipality/Govt]** You are Soumya Hansal / Sumit Hansal living at F-32, Shanti Nagar, Vayugarh. Seeing the inadequate healthcare infrastructure in your town, write a letter to the MLA of your area, in about 120 words, suggesting the need for improving existing healthcare facilities and creating more ‘‘Wellness Centres’’ including a specialized hospital for children and women.  
 
 OR
 
-(b) **[Letter to Editor]** You are Risha Khan / Zuhaan Khan, the sports captain of Highrise Public School, New Line, Rai Nagar. You believe that games and sports are an integral part of a student’s life. Write a letter to the editor of a national daily, in about 120 words, sharing your views on the importance of physical education and suggesting the need to establish a dedicated sports university, so that students can pursue and focus on their favourite sport.
+(b) **[Letter to Editor]** You are Risha Khan / Zuhaan Khan, the sports captain of Highrise Public School, New Line, Rai Nagar. You believe that games and sports are an integral part of a student’s life. Write a letter to the editor of a national daily, in about 120 words, sharing your views on the importance of physical education and suggesting the need to establish a dedicated sports university, so that students can pursue and focus on their favourite sport.  
 
-(a) **[Civic Authority: Municipality/Govt]** You are Rashmi / Roshan, a concerned citizen, residing at G-16, Himmat Path, Nayanagar. Compose a letter in about 120 words to the Director, Municipal Corporation, drawing his attention to the open drains in your colony. The drains are not only the breeding ground for disease-causing organisms but are also polluting the surrounding areas, especially the water bodies which could lead to water-borne diseases. Suggest measures for addressing this issue.
-
-OR
-
-(b) **[Letter to Editor]** You are Mamta / Manish, a student of Grade 11 of Hitech Public School Roopbagh. You have recently volunteered as a student-teacher in a three-week literacy camp held for the children of construction site workers in your neighbourhood. It was a fulfilling and a meaningful experience for you. It sensitized you to the needs of the community, boosted your confidence, and improved your social skills. Write a letter in about 120 words to the editor of a national daily expressing your views on the benefits of volunteering and how students can contribute to the betterment of society.
-
-(a) **[Civic Authority: Municipality/Govt]** You are Suman Lata / Rohan Mori living at 345, Green Apartments, Tyagnagar. You have read that some prominent places in your city have been identified as high-crime areas. Women and elderly people feel scared to navigate through those areas and feel they are more likely to be robbed. To safeguard the interests of vulnerable people, write a letter to the SHO of your area, in about 120 words, requesting him/her to deploy more police personnel in high-crime areas so that the crime rate can be brought down.
+(a) **[Civic Authority: Municipality/Govt]** You are Rashmi / Roshan, a concerned citizen, residing at G-16, Himmat Path, Nayanagar. Compose a letter in about 120 words to the Director, Municipal Corporation, drawing his attention to the open drains in your colony. The drains are not only the breeding ground for disease-causing organisms but are also polluting the surrounding areas, especially the water bodies which could lead to water-borne diseases. Suggest measures for addressing this issue.  
 
 OR
 
-(b) **[Letter to Editor]** You are Anjali Gehlot / Rohan Hora living at 867, Limeroad Heights, Tramnagar. You have noticed how new technologies have paved their way into every aspect of our lives. On the one hand, they have revolutionized the way we live, work and communicate, and on the other hand, it has raised concerns about data privacy and security. Write a letter to the editor of a national daily, in about 120 words, discussing the benefits and risks of new technologies in our daily life.
+(b) **[Letter to Editor]** You are Mamta / Manish, a student of Grade 11 of Hitech Public School Roopbagh. You have recently volunteered as a student-teacher in a three-week literacy camp held for the children of construction site workers in your neighbourhood. It was a fulfilling and a meaningful experience for you. It sensitized you to the needs of the community, boosted your confidence, and improved your social skills. Write a letter in about 120 words to the editor of a national daily expressing your views on the benefits of volunteering and how students can contribute to the betterment of society.  
 
-(a) **[Civic Authority: Municipality/Govt]** As Sakshi/Saksham Bedi of 864, Solar Apartments, Lajpat Street, Dipak Nagar, you feel that the lack of proper street lighting in several areas of your neighbourhood is a threat to safety. Residents, especially those who work late shifts or return home after dark, feel vulnerable due to poorly lit streets. Write a letter to the District Magistrate of your city area, in about 120 words, stating the problem and requesting him to take necessary action for installation of streetlights in those areas.
-
-OR
-
-(b) **[Letter to Editor]** You are Dharti Pradhan/Balal Goyal, the head girl/boy of Pinnacle School, Ustahpuri. You live in a culturally rich city with many historical monuments. You have observed that visitors have etched graffiti on these monuments and littered the area around. You are extremely disturbed at this irresponsible behaviour of the visitors. Write a letter to the editor of a national daily, in about 120 words, suggesting measures to stop such vandalism and creating awareness about the importance of these monuments.
-
-(a) **[Civic Authority: Municipality/Govt]** As Anaisha/Anish Gupta of 84, Coral Apartment, Hoger Street, Viman Nagar, you feel that there has been a growing problem of illegal parking in the residential area of your neighbourhood, particularly near school and commercial establishments. This not only causes inconvenience to residents but also hampers the smooth flow of traffic and poses risks to pedestrians, especially children. Write a letter to the SHO of your city area, in about 120 words, stating the problem and requesting him to take necessary action for controlling the problem. Give suitable suggestions.
+(a) **[Civic Authority: Municipality/Govt]** You are Suman Lata / Rohan Mori living at 345, Green Apartments, Tyagnagar. You have read that some prominent places in your city have been identified as high-crime areas. Women and elderly people feel scared to navigate through those areas and feel they are more likely to be robbed. To safeguard the interests of vulnerable people, write a letter to the SHO of your area, in about 120 words, requesting him/her to deploy more police personnel in high-crime areas so that the crime rate can be brought down.  
 
 OR
 
-(b) **[Letter to Editor]** You are Yukti/Sanjay, the Head of Environment Club of Highways School, Hawapur. You feel concerned about the growing problem of single-use plastics and their detrimental impact on our environment. Their improper disposal is polluting our oceans, rivers and landscapes. Write a letter to the editor of a national daily, in about 120 words, suggesting measures to stop the use of single-use plastics to make a difference and mitigate the environmental impact of plastic pollution. Give suitable suggestions.
+(b) **[Letter to Editor]** You are Anjali Gehlot / Rohan Hora living at 867, Limeroad Heights, Tramnagar. You have noticed how new technologies have paved their way into every aspect of our lives. On the one hand, they have revolutionized the way we live, work and communicate, and on the other hand, it has raised concerns about data privacy and security. Write a letter to the editor of a national daily, in about 120 words, discussing the benefits and risks of new technologies in our daily life.  
 
-(a) **[Civic Authority: Municipality/Govt]** As Kavita/Rohit Ranjan of Sooraj Apartments, Roshan Nagar, you feel that the increasing noise levels from construction activities, traffic and loud gatherings are disrupting the peace and tranquility of your neighbourhood. This is particularly problematic during late hours and is impacting the sleep and well-being of residents. Write a letter to the DM of your city area, in about 120 words, stating the problem and requesting him to take necessary action for controlling the problem of noise. Give suitable suggestions.
-
-OR
-
-(b) **[Letter to Editor]** You are Suman/Sujit, an active member of your society’s “Save the Climate” club. You reside at 786, Hawa Colony, Saafbagh. You feel concerned about the pressing problem of climate change and the urgent need for immediate action. Write a letter to the editor of a national daily, in about 120 words, suggesting measures to advocate sustainable practices in the community.
-
-(a) **[Civic Authority: Municipality/Govt]** You are Neha/Nehal Panjwani, residing at 8576, Sarita Apartments, Hanger Street. As a responsible citizen, you believe in promoting environmentally responsible practices. Write a letter to the Director, Alternate Energy Commission, in about 120 words, sharing your views about ‘Reducing the Carbon Footprint’ by encouraging the use of renewable energy sources, such as solar and wind power and to provide subsidies to families who want to avail the facility.
+(a) **[Civic Authority: Municipality/Govt]** As Sakshi/Saksham Bedi of 864, Solar Apartments, Lajpat Street, Dipak Nagar, you feel that the lack of proper street lighting in several areas of your neighbourhood is a threat to safety. Residents, especially those who work late shifts or return home after dark, feel vulnerable due to poorly lit streets. Write a letter to the District Magistrate of your city area, in about 120 words, stating the problem and requesting him to take necessary action for installation of streetlights in those areas.  
 
 OR
 
-(b) **[Letter to Editor]** As Shobita/Shobhit Das, a responsible citizen, residing in 14-A, GVR Colony, Hoshiyarbad, you have noticed that a road crossing in your area does not have a traffic signal which leads to chaos and traffic jams during peak hours. It is also an accident-prone area. Despite writing numerous letters to the Traffic Commissioner, no action has yet been taken. Write a letter to the editor of a national daily, in about 120 words, to draw the attention of concerned authorities to address the pressing issue affecting the commuters.
+(b) **[Letter to Editor]** You are Dharti Pradhan/Balal Goyal, the head girl/boy of Pinnacle School, Ustahpuri. You live in a culturally rich city with many historical monuments. You have observed that visitors have etched graffiti on these monuments and littered the area around. You are extremely disturbed at this irresponsible behaviour of the visitors. Write a letter to the editor of a national daily, in about 120 words, suggesting measures to stop such vandalism and creating awareness about the importance of these monuments.  
 
-(a) **[Civic Authority: RWA]** You are Richa Ramya/Romil Kamil, residing at 4345, Nector Apartments, Short Street. You have noticed loose electric wires hanging out of poles. As a concerned resident, you feel worried about the potential hazards these exposed wires pose, especially to children who frequent the garden. Write a letter to the President of the RWA of your society, in about 120 words, requesting an urgent intervention to address this issue.
-
-OR
-
-(b) **[Letter to Editor]** As Karma Sood/Kalyan Sood, a responsible citizen and resident of 41B, Global Village, Jaknet Nagar, you have noticed that there are no proper pavements to walk on the sides of all the main roads in your city, which puts the lives of pedestrians at danger. It also causes air pollution when high speed vehicles run through the muddy path. Write a letter to the editor of a national daily in about 120 words to highlight the issue, and bring the attention of concerned authorities to take prompt action.
-
-(a) **[Civic Authority: RWA]** You are Falguni/Ashish residing at 98, Krystal Garden Apartments, Jonsabad. You have noticed that the swimming pool in your society is poorly maintained and has become a breeding ground for mosquitoes. As a resident and frequent user of the pool facilities, you feel deeply concerned about the potential health risks posed by the presence of mosquitoes. Write a letter, in about 120 words, to the Secretary of the RWA of your society, requesting him to take immediate action to address this issue to mitigate the problem.
+(a) **[Civic Authority: Municipality/Govt]** As Anaisha/Anish Gupta of 84, Coral Apartment, Hoger Street, Viman Nagar, you feel that there has been a growing problem of illegal parking in the residential area of your neighbourhood, particularly near school and commercial establishments. This not only causes inconvenience to residents but also hampers the smooth flow of traffic and poses risks to pedestrians, especially children. Write a letter to the SHO of your city area, in about 120 words, stating the problem and requesting him to take necessary action for controlling the problem. Give suitable suggestions.  
 
 OR
 
-(b) **[Letter to Editor]** As Yusra/Yousuf, the Secretary of the RWA of your society, residing at 493, Stargazing Apartments, Newbagh, you have noticed many small plots of land lying unattended in your city. You feel that the plots can be utilized to create green spaces where people can sit and relax. Write a letter to the editor of a national daily in about 120 words, highlighting the issue and urging necessary action from the concerned department for improving the aesthetic appeal of your city.
+(b) **[Letter to Editor]** You are Yukti/Sanjay, the Head of Environment Club of Highways School, Hawapur. You feel concerned about the growing problem of single-use plastics and their detrimental impact on our environment. Their improper disposal is polluting our oceans, rivers and landscapes. Write a letter to the editor of a national daily, in about 120 words, suggesting measures to stop the use of single-use plastics to make a difference and mitigate the environmental impact of plastic pollution. Give suitable suggestions.  
 
-(a) **[Institution Letters]** You are Sonia / Sonu, residing at 67/98 Malkaganj, Sonepat. Compose a letter in about 120 words to the Head Librarian of your child’s school drawing attention to the poor library facilities. Give suggestions on how things can be improved to inculcate reading habits among children.
-
-OR
-
-(b) **[Letter to Editor]** As Sharmila Sahani, a conscientious resident of 25/22, Rajpur, Fahetabad, you have recently come across numerous newspaper articles featuring tragic incidents where lives have been lost due to reckless driving and not following the traffic rules. Write a letter to the editor of a national daily, shedding light on this issue and give suggestions on what can be done.
-
-(a) **[Civic Authority: Municipality/Govt]** You are Raashi / Rahul of Simargarh, Himachal Pradesh. Write a letter in about 100-120 words to the Municipal Commissioner of the city drawing attention to the unattended condition of the public parks in your town. They are poorly maintained with garbage strewn and pools of stagnant water. Give suggestions on how the parks can be maintained.
+(a) **[Civic Authority: Municipality/Govt]** As Kavita/Rohit Ranjan of Sooraj Apartments, Roshan Nagar, you feel that the increasing noise levels from construction activities, traffic and loud gatherings are disrupting the peace and tranquility of your neighbourhood. This is particularly problematic during late hours and is impacting the sleep and well-being of residents. Write a letter to the DM of your city area, in about 120 words, stating the problem and requesting him to take necessary action for controlling the problem of noise. Give suitable suggestions.  
 
 OR
 
-(b) **[Letter to Editor]** You are Bela / Baloo of Palanpuri. You recently visited a ‘craft mela’. You were delighted to see the diversity of handicrafts, handlooms and cultural fabric of India. However, you were dismayed that not many people were there to encourage the artisans. Write a letter to the editor in 100-120 words, expressing your views on the situation and the need to support indigenous art and craft.
+(b) **[Letter to Editor]** You are Suman/Sujit, an active member of your society’s “Save the Climate” club. You reside at 786, Hawa Colony, Saafbagh. You feel concerned about the pressing problem of climate change and the urgent need for immediate action. Write a letter to the editor of a national daily, in about 120 words, suggesting measures to advocate sustainable practices in the community.  
 
-(a) **[Letter to Editor]** In recent weeks, there have been several incidents of theft in your area, and despite reaching out to the local law enforcement authorities, there has been no improvement in the situation. Write a 100-120 words letter to the editor of a local newspaper, highlighting this issue and urging higher authorities to take action. You are Jyoti / Arvind residing at 54/47, Lohia Apartments, Nagpur.
-
-OR
-
-(b) **[Civic Authority: Municipality/Govt]** You are Shivani Dube of B-3, Indira Nagar, Kota. You have recently relocated to the city and are taken aback by the condition of roads in the city. There are huge potholes and no traffic lights, nor pedestrian crossings. At peak hours there is chaos at the intersections. Write a letter in 100-120 words to the Municipal Commissioner expressing your views and urging him to take action.
-
-(a) **[Letter to Editor]** Convenience, variety, discounts and laziness are some of the reasons for the growing popularity of ordering food online. You are Santa / Suhail student editor for the National Times. Compose a letter in about 120 words to the Editor of the newspaper highlighting the adverse effects of take-out food ordered online. Emphasize on the overall well-being of eating home-cooked meals.
+(a) **[Civic Authority: Municipality/Govt]** You are Neha/Nehal Panjwani, residing at 8576, Sarita Apartments, Hanger Street. As a responsible citizen, you believe in promoting environmentally responsible practices. Write a letter to the Director, Alternate Energy Commission, in about 120 words, sharing your views about ‘Reducing the Carbon Footprint’ by encouraging the use of renewable energy sources, such as solar and wind power and to provide subsidies to families who want to avail the facility.  
 
 OR
 
-(b) **[Civic Authority: Municipality/Govt]** You visited your hometown after a period of four years and were disappointed at the condition of the roads. They were in a state of disrepair. The uneven surfaces, cracks and pot-holes were affecting daily commute and causing safety issues for the people. You are Sulekha/Salim. Write a letter to the Director of the Municipal Corporation in about 100-120 words drawing attention to the poor condition of roads and the inconvenience caused. Request him to look into the matter and take early action.
+(b) **[Letter to Editor]** As Shobita/Shobhit Das, a responsible citizen, residing in 14-A, GVR Colony, Hoshiyarbad, you have noticed that a road crossing in your area does not have a traffic signal which leads to chaos and traffic jams during peak hours. It is also an accident-prone area. Despite writing numerous letters to the Traffic Commissioner, no action has yet been taken. Write a letter to the editor of a national daily, in about 120 words, to draw the attention of concerned authorities to address the pressing issue affecting the commuters.  
 
-
-(a) **[Civic Authority: Municipality/Govt]** To check speeding traffic in your colony, the Traffic Police Department made speed breakers. However, these have led to greater inconvenience because of the defective construction of the breakers. They are too high and have already damaged a few vehicles in the colony. In addition, they have been poorly made and are broken in places leading to accidents and excessive slowing down. Write a letter in about 120 words to the Traffic Commissioner drawing his attention to the problem and give suggestions. You are Sant/Savita.
+(a) **[Civic Authority: RWA]** You are Richa Ramya/Romil Kamil, residing at 4345, Nector Apartments, Short Street. You have noticed loose electric wires hanging out of poles. As a concerned resident, you feel worried about the potential hazards these exposed wires pose, especially to children who frequent the garden. Write a letter to the President of the RWA of your society, in about 120 words, requesting an urgent intervention to address this issue.  
 
 OR
 
-(b) **[Letter to Editor]** Recently you visited Nainital and were happy to see the scenic beauty of the town. However, you were disappointed at how the tourists had not only vandalized tourist spots but also littered the town. You feel to raise an awareness about this. Write a letter to the editor of a local daily expressing your deep concern regarding the same. Give suggestions on how tourists can become more responsible. Sign yourself as Meeta/Mohan. (100-120 words)
+(b) **[Letter to Editor]** As Karma Sood/Kalyan Sood, a responsible citizen and resident of 41B, Global Village, Jaknet Nagar, you have noticed that there are no proper pavements to walk on the sides of all the main roads in your city, which puts the lives of pedestrians at danger. It also causes air pollution when high speed vehicles run through the muddy path. Write a letter to the editor of a national daily in about 120 words to highlight the issue, and bring the attention of concerned authorities to take prompt action.  
+
+(a) **[Civic Authority: RWA]** You are Falguni/Ashish residing at 98, Krystal Garden Apartments, Jonsabad. You have noticed that the swimming pool in your society is poorly maintained and has become a breeding ground for mosquitoes. As a resident and frequent user of the pool facilities, you feel deeply concerned about the potential health risks posed by the presence of mosquitoes. Write a letter, in about 120 words, to the Secretary of the RWA of your society, requesting him to take immediate action to address this issue to mitigate the problem.  
+
+OR
+
+(b) **[Letter to Editor]** As Yusra/Yousuf, the Secretary of the RWA of your society, residing at 493, Stargazing Apartments, Newbagh, you have noticed many small plots of land lying unattended in your city. You feel that the plots can be utilized to create green spaces where people can sit and relax. Write a letter to the editor of a national daily in about 120 words, highlighting the issue and urging necessary action from the concerned department for improving the aesthetic appeal of your city.  
+
+(a) **[Institution Letters]** You are Sonia / Sonu, residing at 67/98 Malkaganj, Sonepat. Compose a letter in about 120 words to the Head Librarian of your child’s school drawing attention to the poor library facilities. Give suggestions on how things can be improved to inculcate reading habits among children.  
+
+OR
+
+(b) **[Letter to Editor]** As Sharmila Sahani, a conscientious resident of 25/22, Rajpur, Fahetabad, you have recently come across numerous newspaper articles featuring tragic incidents where lives have been lost due to reckless driving and not following the traffic rules. Write a letter to the editor of a national daily, shedding light on this issue and give suggestions on what can be done.  
+
+(a) **[Civic Authority: Municipality/Govt]** You are Raashi / Rahul of Simargarh, Himachal Pradesh. Write a letter in about 100-120 words to the Municipal Commissioner of the city drawing attention to the unattended condition of the public parks in your town. They are poorly maintained with garbage strewn and pools of stagnant water. Give suggestions on how the parks can be maintained.  
+
+OR
+
+(b) **[Letter to Editor]** You are Bela / Baloo of Palanpuri. You recently visited a ‘craft mela’. You were delighted to see the diversity of handicrafts, handlooms and cultural fabric of India. However, you were dismayed that not many people were there to encourage the artisans. Write a letter to the editor in 100-120 words, expressing your views on the situation and the need to support indigenous art and craft.  
+
+(a) **[Letter to Editor]** In recent weeks, there have been several incidents of theft in your area, and despite reaching out to the local law enforcement authorities, there has been no improvement in the situation. Write a 100-120 words letter to the editor of a local newspaper, highlighting this issue and urging higher authorities to take action. You are Jyoti / Arvind residing at 54/47, Lohia Apartments, Nagpur.  
+
+OR
+
+(b) **[Civic Authority: Municipality/Govt]** You are Shivani Dube of B-3, Indira Nagar, Kota. You have recently relocated to the city and are taken aback by the condition of roads in the city. There are huge potholes and no traffic lights, nor pedestrian crossings. At peak hours there is chaos at the intersections. Write a letter in 100-120 words to the Municipal Commissioner expressing your views and urging him to take action.  
+
+(a) **[Letter to Editor]** Convenience, variety, discounts and laziness are some of the reasons for the growing popularity of ordering food online. You are Santa / Suhail student editor for the National Times. Compose a letter in about 120 words to the Editor of the newspaper highlighting the adverse effects of take-out food ordered online. Emphasize on the overall well-being of eating home-cooked meals.  
+
+OR
+
+(b) **[Civic Authority: Municipality/Govt]** You visited your hometown after a period of four years and were disappointed at the condition of the roads. They were in a state of disrepair. The uneven surfaces, cracks and pot-holes were affecting daily commute and causing safety issues for the people. You are Sulekha/Salim. Write a letter to the Director of the Municipal Corporation in about 100-120 words drawing attention to the poor condition of roads and the inconvenience caused. Request him to look into the matter and take early action.  
+
+
+(a) **[Civic Authority: Municipality/Govt]** To check speeding traffic in your colony, the Traffic Police Department made speed breakers. However, these have led to greater inconvenience because of the defective construction of the breakers. They are too high and have already damaged a few vehicles in the colony. In addition, they have been poorly made and are broken in places leading to accidents and excessive slowing down. Write a letter in about 120 words to the Traffic Commissioner drawing his attention to the problem and give suggestions. You are Sant/Savita.  
+
+OR
+
+(b) **[Letter to Editor]** Recently you visited Nainital and were happy to see the scenic beauty of the town. However, you were disappointed at how the tourists had not only vandalized tourist spots but also littered the town. You feel to raise an awareness about this. Write a letter to the editor of a local daily expressing your deep concern regarding the same. Give suggestions on how tourists can become more responsible. Sign yourself as Meeta/Mohan. (100-120 words)  
 
 (a) **[Business Letter: Complaint]** You have recently purchased a speaker from a retail store. On reaching home, you found that it was not of the same model which you had purchased and paid for. You want to replace it with a new one. Write a letter to the retail manager in 100-120 words for replacement. You may use the given hints:
 *   Say who you are
@@ -225,118 +225,118 @@ OR
 
 OR
 
-(b) **[Letter to Editor]** Recently you visited your city after a span of ten years. You were happy to see the development of your city in the last few years. But at the same time, you are deeply hurt to find the condition of the road in your vicinity. You feel that the road needs repair. Write a letter to the editor of the local daily expressing your deep concern regarding the same. Sign yourself as Ganesh/Geeta. (100-120 words)
+(b) **[Letter to Editor]** Recently you visited your city after a span of ten years. You were happy to see the development of your city in the last few years. But at the same time, you are deeply hurt to find the condition of the road in your vicinity. You feel that the road needs repair. Write a letter to the editor of the local daily expressing your deep concern regarding the same. Sign yourself as Ganesh/Geeta. (100-120 words)  
 
-(a) **[Letter to Editor]** You are Garima/Gopal, a resident of B/66, Mall Road, Guwahati and a volunteer of ‘Greenpeace India’. Write a letter to the editor of ‘National Times’ expressing your concern about the grave and irreparable damage that environmental pollution is causing to the society. In megacities, rapid urbanization and rampant industrialization has played a key role in increasing the pressure on the limited resources. Discuss how environmental degradation can be curbed with the development, implementation, and enforcement of environmental laws, regulations and policies.
+(a) **[Letter to Editor]** You are Garima/Gopal, a resident of B/66, Mall Road, Guwahati and a volunteer of ‘Greenpeace India’. Write a letter to the editor of ‘National Times’ expressing your concern about the grave and irreparable damage that environmental pollution is causing to the society. In megacities, rapid urbanization and rampant industrialization has played a key role in increasing the pressure on the limited resources. Discuss how environmental degradation can be curbed with the development, implementation, and enforcement of environmental laws, regulations and policies.  
 
 OR
 
-(b) **[Civic Authority: Municipality/Govt]** Obesity has become a global issue. The lack of physical fitness programmes and extra-curriculars has created significant problems that could affect future health of youngsters. 39 percent of individuals around the world are overweight and 13 percent are obese. You are Shiksha/Sumit of Ramjas School, Ranchi. You believe that efforts by the government will help to turn the tide. Write a letter to the Ministry of Health for implementing compulsory programmes at school level to emphasize need for proper nutrition and fitness from a young age.
+(b) **[Civic Authority: Municipality/Govt]** Obesity has become a global issue. The lack of physical fitness programmes and extra-curriculars has created significant problems that could affect future health of youngsters. 39 percent of individuals around the world are overweight and 13 percent are obese. You are Shiksha/Sumit of Ramjas School, Ranchi. You believe that efforts by the government will help to turn the tide. Write a letter to the Ministry of Health for implementing compulsory programmes at school level to emphasize need for proper nutrition and fitness from a young age.  
 
 (a) **[Letter to Editor]** As a resident of B/66 Mall Road, Guwahati, and a parent of a Grade X student, you are deeply concerned about the declining writing habits among students in today’s digital age. This trend significantly impacts their academic performance.
 Writing skills require consistent practice, but increased dependence on internet resources has adversely affected children’s ability to express themselves effectively through writing.
-Write a letter in 100-120 words to the editor of ‘The Geo Youth Times' expressing your concern about this issue. Also, suggest measures to emphasize the importance of reading and writing skills in schools. You are Vidhi/Vaibhav.
+Write a letter in 100-120 words to the editor of ‘The Geo Youth Times' expressing your concern about this issue. Also, suggest measures to emphasize the importance of reading and writing skills in schools. You are Vidhi/Vaibhav.  
 
 OR
 
-(b) **[Business Letter: Inquiry]** You are Anuradha/Ashish, residing at 45, Westwood Street, Nainital. After being inspired by a billboard advertisement for a seaside resort promoting relaxation and rejuvenation, you are interested in planning a family getaway.
+(b) **[Business Letter: Inquiry]** You are Anuradha/Ashish, residing at 45, Westwood Street, Nainital. After being inspired by a billboard advertisement for a seaside resort promoting relaxation and rejuvenation, you are interested in planning a family getaway.  
 
 | **Let the waves of the water drench you with the ultimate bliss of being alive! Book a stay with us and experience the best holiday ever!** |
 | ------------------------------------------------------------------------------------------------------------------------------------------- |
 
-Write a letter (100-120 words) to the Resort manager requesting details about the costs, room options, nearby attractions and available activities. Please include any additional necessary information for planning the trip.
+Write a letter (100-120 words) to the Resort manager requesting details about the costs, room options, nearby attractions and available activities. Please include any additional necessary information for planning the trip.  
 
 (a) **[Letter to Editor]** You are Mahima/Manoj, a resident of B/20, Shastri Road, Mumbai and a volunteer with ‘Clean India’. As a concerned citizen, you have noticed that Marine Lines has become heavily polluted with plastic and garbage.
-Write a letter to the editor of a prominent newspaper to raise awareness about this issue. In your letter, explain how environmental damage can be reduced through the help of NGOs, individuals, and government organisations.
+Write a letter to the editor of a prominent newspaper to raise awareness about this issue. In your letter, explain how environmental damage can be reduced through the help of NGOs, individuals, and government organisations.  
 
 OR
 
-(b) **[Civic Authority: Municipality/Govt]** You are Sapna/Samar, a resident of A-411, Vivek Vihar, Delhi. Write a letter to the Commissioner of the Municipal Corporation to highlight your concern about the street lights in your area that have been out of order for a long time. Emphasize the safety issues and inconvenience caused by the lack of proper street lighting and request prompt repairs.
+(b) **[Civic Authority: Municipality/Govt]** You are Sapna/Samar, a resident of A-411, Vivek Vihar, Delhi. Write a letter to the Commissioner of the Municipal Corporation to highlight your concern about the street lights in your area that have been out of order for a long time. Emphasize the safety issues and inconvenience caused by the lack of proper street lighting and request prompt repairs.  
 
 ### 2024 C
 
-(a) **[Letter to Editor]** You are Suyash/Suhani Pandey, the Eco-Club Captain of Kendriya Vidyalaya School, Shripur. You are well aware of the hazards of using plastic bags indiscriminately and want the authorities to ban the excessive use of these bags. Write a letter to the editor of a national daily in not more than 120 words, drawing attention towards the harm caused by plastic litter. Express your concern over environmental degradation due to plastic waste and request the public to avoid the reckless use of polybags.
+(a) **[Letter to Editor]** You are Suyash/Suhani Pandey, the Eco-Club Captain of Kendriya Vidyalaya School, Shripur. You are well aware of the hazards of using plastic bags indiscriminately and want the authorities to ban the excessive use of these bags. Write a letter to the editor of a national daily in not more than 120 words, drawing attention towards the harm caused by plastic litter. Express your concern over environmental degradation due to plastic waste and request the public to avoid the reckless use of polybags.  
 
 OR
 
-(b) **[Civic Authority: RWA]** Food wastage is fast assuming a serious dimension. A staggering 1-3 billion tonnes of food is being wasted per annum globally. According to reports from UNEP (United Nations Environmental Programme), 811 million people go hungry every day. You are Sofia/Sohail, a resident of 242, Lajpat Nagar, Vayunagar. On behalf of the residents of your locality, write a letter to the Secretary, RWA of your area, requesting him/her to install a community fridge where people can contribute their excess food which can be accessed by the underprivileged. Write your letter in about 120 words.
+(b) **[Civic Authority: RWA]** Food wastage is fast assuming a serious dimension. A staggering 1-3 billion tonnes of food is being wasted per annum globally. According to reports from UNEP (United Nations Environmental Programme), 811 million people go hungry every day. You are Sofia/Sohail, a resident of 242, Lajpat Nagar, Vayunagar. On behalf of the residents of your locality, write a letter to the Secretary, RWA of your area, requesting him/her to install a community fridge where people can contribute their excess food which can be accessed by the underprivileged. Write your letter in about 120 words.  
 
 
 ### 2024
 
-(a) **[Civic Authority: Municipality/Govt]** There are daily reports in the newspaper of fatal accidents due to reckless driving and road rage. Write a letter to the Commissioner of Traffic Police in about 120 words suggesting the need to take stricter action against the offenders. Recommend the use of social media to launch awareness campaigns about the implications of irresponsible driving. You are Shantanu/Savita, living at B-108 Krishi Apartments.
+(a) **[Civic Authority: Municipality/Govt]** There are daily reports in the newspaper of fatal accidents due to reckless driving and road rage. Write a letter to the Commissioner of Traffic Police in about 120 words suggesting the need to take stricter action against the offenders. Recommend the use of social media to launch awareness campaigns about the implications of irresponsible driving. You are Shantanu/Savita, living at B-108 Krishi Apartments.  
 
 OR
 
 (b) **[Letter to Editor]** A leading communication company ‘Savera’ is sponsoring a half marathon run in your city to raise funds for ‘Koshish’ an orphanage. You are Roshini/Roshan, school captain of Adarsh Vidyalaya. You are leading a batch of hundred students in the half marathon to be held in your city.
-Write a letter to the editor of a national daily emphasizing the participation of school children in such programmes as part of voluntary community service. Highlight the benefits of participation in such activities.
+Write a letter to the editor of a national daily emphasizing the participation of school children in such programmes as part of voluntary community service. Highlight the benefits of participation in such activities.  
 
-(a) **[Business Letter: Inquiry]** You are Soumya/Soham, living at 43-B, Blue Apartments, Prashant Lok. You wish to take up a three-week summer course in baking after finishing your class X board exams. Write a letter in about 120 words, to the Principal of Excellent Cooking, Block-D, Mahesh Enclave, seeking information about the course structure, course duration, fees, class timings, on job trainings etc.
-
-OR
-
-(b) **[Business Letter: Order Placement]** You are Punit/Punita of Eric India Pvt. Ltd., Saman Chowk. You have received the reply to your letter of inquiry from Lifeway India Company. You feel confident about the company’s terms and conditions. Write a letter placing an order for the furniture for your office, that you had mentioned in the previous communication. Include a reference to your previous letter. Remember to mention quantity, quality, mode of payment, delivery date and discount.
-
-(a) **[Business Letter: Inquiry]** You are Aman/Amita, living at 45-B, Bellaview Nagar. You want information about the French language course at La-France institute, Mohan Circle. Write a letter in about 120 words to the Director, Foreign Language enquiring about the details of the courses offered by the institution. In your letter include eligibility, duration of different courses, medium of instruction, examination cycle etc.
+(a) **[Business Letter: Inquiry]** You are Soumya/Soham, living at 43-B, Blue Apartments, Prashant Lok. You wish to take up a three-week summer course in baking after finishing your class X board exams. Write a letter in about 120 words, to the Principal of Excellent Cooking, Block-D, Mahesh Enclave, seeking information about the course structure, course duration, fees, class timings, on job trainings etc.  
 
 OR
 
-(b) **[Letter to Editor]** The Residents of Sunshine Society had put up a weekend carnival to raise funds for ‘Apeksha’ a home for physically challenged. All items on sale were made by the residents themselves. As President of the society, Adil Kumar, write a letter in 120 words to the editor of the local daily, about this experience, appreciating the effort of the residents. Suggest how citizens must reach out to their communities, volunteer time and render help in any way they can.
+(b) **[Business Letter: Order Placement]** You are Punit/Punita of Eric India Pvt. Ltd., Saman Chowk. You have received the reply to your letter of inquiry from Lifeway India Company. You feel confident about the company’s terms and conditions. Write a letter placing an order for the furniture for your office, that you had mentioned in the previous communication. Include a reference to your previous letter. Remember to mention quantity, quality, mode of payment, delivery date and discount.  
+
+(a) **[Business Letter: Inquiry]** You are Aman/Amita, living at 45-B, Bellaview Nagar. You want information about the French language course at La-France institute, Mohan Circle. Write a letter in about 120 words to the Director, Foreign Language enquiring about the details of the courses offered by the institution. In your letter include eligibility, duration of different courses, medium of instruction, examination cycle etc.  
+
+OR
+
+(b) **[Letter to Editor]** The Residents of Sunshine Society had put up a weekend carnival to raise funds for ‘Apeksha’ a home for physically challenged. All items on sale were made by the residents themselves. As President of the society, Adil Kumar, write a letter in 120 words to the editor of the local daily, about this experience, appreciating the effort of the residents. Suggest how citizens must reach out to their communities, volunteer time and render help in any way they can.  
 
 (a) **[Civic Authority: Municipality/Govt]** As Nalini Sharda of 409, Surya Apartments, Gopalpur, you believe that pedestrian safety is very important. Footpaths on both sides of the main roads of your city need major repairs and on some stretches they need to be constructed.
-Write a letter to the MLA of your city area, in about 120 words, stressing the need for footpaths for pedestrian safety. Share your concern for maintenance of existing footpaths and the need to construct new ones where they are required.
+Write a letter to the MLA of your city area, in about 120 words, stressing the need for footpaths for pedestrian safety. Share your concern for maintenance of existing footpaths and the need to construct new ones where they are required.  
 
 OR
 
-(b) **[Letter to Editor]** As Sohail Khan, the sports captain of Pinnacle Public School, you believe that fitness as a lifestyle should be promoted. Write a letter to the Editor of a national daily, in about 120 words, suggesting the introduction of “Cycle to School” campaign for school going students. The programme aims to develop the habit of exercising through cycling to maintain fitness and keeping children active. Share the importance and credibility of such a programme and suggest a feasible way to execute it along with possible activities.
+(b) **[Letter to Editor]** As Sohail Khan, the sports captain of Pinnacle Public School, you believe that fitness as a lifestyle should be promoted. Write a letter to the Editor of a national daily, in about 120 words, suggesting the introduction of “Cycle to School” campaign for school going students. The programme aims to develop the habit of exercising through cycling to maintain fitness and keeping children active. Share the importance and credibility of such a programme and suggest a feasible way to execute it along with possible activities.  
 
 (a) **[Civic Authority: Municipality/Govt]** As Komal Gupta of 987, Dey Apartments, Rajpur, you believe that proper waste management is a must in today’s times when we need to promote ‘Recycling’ for optimum utilization of things/products. Despite ample promotion by civic authorities about segregation of waste into ‘recyclable’ and ‘non recyclable’ waste the garbage collectors in your areas do not follow the rules.
-Write a letter to the MLA of your city, in about 120 words, apprising him of the situation, sharing the importance of waste segregation and requesting him to take strict action against erring personnel. 1x5
+Write a letter to the MLA of your city, in about 120 words, apprising him of the situation, sharing the importance of waste segregation and requesting him to take strict action against erring personnel.  
 
 OR
 
-(b) **[Letter to Editor]** As Anushri Jain, a resident of 52, Mount view Apartments, Abadpur, you are distressed with frequent long power cuts in your society. Despite several request letters to the concerned authority, the problem still persists. Write a letter to the editor of a local daily, in about 120 words highlighting the inconvenience faced by the residents of the locality and offering solutions.
+(b) **[Letter to Editor]** As Anushri Jain, a resident of 52, Mount view Apartments, Abadpur, you are distressed with frequent long power cuts in your society. Despite several request letters to the concerned authority, the problem still persists. Write a letter to the editor of a local daily, in about 120 words highlighting the inconvenience faced by the residents of the locality and offering solutions.  
 
 (a) **[Civic Authority: Municipality/Govt]** As Sharman Singh of 776, Hemkunt Apartments, Arampur, you believe that as a law abiding citizen who pays regular taxes you deserve regular supply of clean drinking water in your house. However, your locality is facing acute shortage as supply is often disrupted without notice causing problems to the residents.
-Write a letter to the Director of Jal Board of your city area, in about 120 words, apprising him of the situation; sharing the need for regular supply of clean water and requesting him to take necessary action to improve the situation. 1x5
+Write a letter to the Director of Jal Board of your city area, in about 120 words, apprising him of the situation; sharing the need for regular supply of clean water and requesting him to take necessary action to improve the situation.   
 
 OR
 
-(b) **[Letter to Editor]** As Sonam Mehta, a resident of 14, Sunrise Apartment, Udaipur, you are distressed about the misuse and poor maintenance of the public park in your society. Write a letter to the editor of a local daily, in about 120 words, highlighting the condition, mentioning the inconvenience faced by the residents of the locality. Share the importance of public parks and suggest measures for its proper upkeep.
+(b) **[Letter to Editor]** As Sonam Mehta, a resident of 14, Sunrise Apartment, Udaipur, you are distressed about the misuse and poor maintenance of the public park in your society. Write a letter to the editor of a local daily, in about 120 words, highlighting the condition, mentioning the inconvenience faced by the residents of the locality. Share the importance of public parks and suggest measures for its proper upkeep.  
 
-(a) **[Business Letter: Order Placement]** You are Kapil/Kavita, sports secretary of Ajax World School, Gurugram. You want to place an order for sports articles for the school cricket team to Rotary Sports, Janakpuri, New Delhi. Write a letter in about 120 words. Remember to include relevant information about quality and quantity of products, specific details, school discount, delivery date and mode of payment.
-
-OR
-
-(b) **[Letter to Editor]** You are Rahul / Rita, a student of DRK World School, Preet Vihar, Prem Nagar. You have recently noticed that the street in front of the school is being used as a thoroughfare by vehicles because of the construction work on the main street. This has led to a number of near fatal accidents involving school students who have become vulnerable to road injuries and exposure to toxic air and noise pollution while going to school. Write a letter to the Editor of a local daily in about 120 words highlighting the problem. You may also suggest possible solutions such as road safety signages, speed breakers, traffic timings.
-
-(a) **[Institution Letters]** As a concerned parent, you have observed rash driving of the school bus drivers. You have also noted overcrowding of the buses, open doors and how the drivers barely stop for the students to board safely. You are Nikita/ Nikhil. Write a letter to the Principal of the Swacha School providing details of what you have noticed over the past few weeks. Express your concern and suggest recommendations to avoid any mishap. You may include recommendations such as a security guard in the bus, speed limit, increase in the number of buses.
+(a) **[Business Letter: Order Placement]** You are Kapil/Kavita, sports secretary of Ajax World School, Gurugram. You want to place an order for sports articles for the school cricket team to Rotary Sports, Janakpuri, New Delhi. Write a letter in about 120 words. Remember to include relevant information about quality and quantity of products, specific details, school discount, delivery date and mode of payment.  
 
 OR
 
-(b) **[Civic Authority: Municipality/Govt]** Inspite of repeated promises made by the authorities, potholes on the roads both internal and main streets have not been fixed. Poor, makeshift repair work was done which did not last beyond a week. This problem has led to many people having nasty falls and traffic congestion. Write a letter to your MLA drawing his attention to the problem. Remind him of his promise to repair the roads immediately to reduce inconvenience of the residents. You are Akshita / Aslam, Secretary RWA, Jaunaspuri.
+(b) **[Letter to Editor]** You are Rahul / Rita, a student of DRK World School, Preet Vihar, Prem Nagar. You have recently noticed that the street in front of the school is being used as a thoroughfare by vehicles because of the construction work on the main street. This has led to a number of near fatal accidents involving school students who have become vulnerable to road injuries and exposure to toxic air and noise pollution while going to school. Write a letter to the Editor of a local daily in about 120 words highlighting the problem. You may also suggest possible solutions such as road safety signages, speed breakers, traffic timings.  
+
+(a) **[Institution Letters]** As a concerned parent, you have observed rash driving of the school bus drivers. You have also noted overcrowding of the buses, open doors and how the drivers barely stop for the students to board safely. You are Nikita/ Nikhil. Write a letter to the Principal of the Swacha School providing details of what you have noticed over the past few weeks. Express your concern and suggest recommendations to avoid any mishap. You may include recommendations such as a security guard in the bus, speed limit, increase in the number of buses.  
+
+OR
+
+(b) **[Civic Authority: Municipality/Govt]** Inspite of repeated promises made by the authorities, potholes on the roads both internal and main streets have not been fixed. Poor, makeshift repair work was done which did not last beyond a week. This problem has led to many people having nasty falls and traffic congestion. Write a letter to your MLA drawing his attention to the problem. Remind him of his promise to repair the roads immediately to reduce inconvenience of the residents. You are Akshita / Aslam, Secretary RWA, Jaunaspuri.  
 
 (a) **[Civic Authority: RWA]** The bursting of the sewage pipe in your colony has led to an overflow of sewage making it impossible to travel on A2 and A3 streets of your colony. The stench is unbearable and the colony gates have to be closed leading to traffic jams. In addition, the overflowing sewage water has become a breeding ground for mosquitoes. As secretary RWA, you have been repeatedly complaining to the civic authorities but to no avail.
-You are Shanti / Shantam of Kanchan Vihar. Write a letter to your local MLA requesting immediate action.
+You are Shanti / Shantam of Kanchan Vihar. Write a letter to your local MLA requesting immediate action.  
 
 OR
 
-(b) **[Business Letter: Inquiry]** As President of the Mountaineering Club of your school, you wish to organize a weekend trek to Kempty Falls. You are Pratibha / Prateek. Write a letter to the Director, Outdoor Adventures mentioning your proposed travel dates, number of students and teacher escorts. Find out about the mode of travel options, boarding, lodging, trekking gear, camping facilities and cost.
+(b) **[Business Letter: Inquiry]** As President of the Mountaineering Club of your school, you wish to organize a weekend trek to Kempty Falls. You are Pratibha / Prateek. Write a letter to the Director, Outdoor Adventures mentioning your proposed travel dates, number of students and teacher escorts. Find out about the mode of travel options, boarding, lodging, trekking gear, camping facilities and cost.  
 
 (a) **[Letter to Editor]** The problem of speeding traffic on colony roads causing accidents is increasing day by day. As a young citizen, who wants to minimize the accidents caused by them, write a letter to the editor of a national daily, in about 120 words, expressing your concern at the situation and suggesting measures to resolve the problem and drawing attention of the concerned authorities.
-You are Samyukta Khanna/Sanjay Khanna of 567, Madhur Apartments, Amar Vihar, Aram Nagar.
+You are Samyukta Khanna/Sanjay Khanna of 567, Madhur Apartments, Amar Vihar, Aram Nagar.  
 
 OR
 
-(b) **[Civic Authority: RWA]** As Kaveri Mahajan, of 543, Narmada Apartments, Jeev Nagar, you feel that during the monsoon season all the rain water goes down the drain without being utilized. Write a letter to the RWA of your society, in about 120 words, suggesting measures to save and preserve rain water emphasizing the importance of saving every drop of water.
+(b) **[Civic Authority: RWA]** As Kaveri Mahajan, of 543, Narmada Apartments, Jeev Nagar, you feel that during the monsoon season all the rain water goes down the drain without being utilized. Write a letter to the RWA of your society, in about 120 words, suggesting measures to save and preserve rain water emphasizing the importance of saving every drop of water.  
 
-(a) **[Letter to Editor]** The street lights of your locality are not functioning properly leaving stretches of dark/blind spots at night. Due to this problem, chain and mobile snatching incidents have increased. Write a letter to the editor of a local daily, in about 120 words, expressing your concern at the situation and suggesting measures to resolve the problem and drawing attention of the concerned authorities. You are Tamay Saroha/Gauri Saroha of 709, Gold Apartments, Prem Vihar, Amar Nagar.
+(a) **[Letter to Editor]** The street lights of your locality are not functioning properly leaving stretches of dark/blind spots at night. Due to this problem, chain and mobile snatching incidents have increased. Write a letter to the editor of a local daily, in about 120 words, expressing your concern at the situation and suggesting measures to resolve the problem and drawing attention of the concerned authorities. You are Tamay Saroha/Gauri Saroha of 709, Gold Apartments, Prem Vihar, Amar Nagar.  
 
 OR
 
-(b) **[Civic Authority: RWA]** As Sarla Mehta/Santosh Mehta of 983, Sterling Apartments, Vikas Nagar, you believe in the importance of staying fit and exercising. Your society does not have an open gym in the premises. Write a letter to the RWA of your society, in about 120 words, requesting them to set up an open gym in the garden area where residents can exercise, emphasizing upon the importance of staying fit and healthy.
+(b) **[Civic Authority: RWA]** As Sarla Mehta/Santosh Mehta of 983, Sterling Apartments, Vikas Nagar, you believe in the importance of staying fit and exercising. Your society does not have an open gym in the premises. Write a letter to the RWA of your society, in about 120 words, requesting them to set up an open gym in the garden area where residents can exercise, emphasizing upon the importance of staying fit and healthy.  
 
-(a) **[Letter to Editor]** In your local market, you have noticed that young children are working in a few restaurants. You were aghast to see a blatant violation of laws. Write a letter to the editor of a national daily, in about 120 words, expressing your concern at the situation and suggesting measures to resolve the problem and drawing attention of the concerned authorities. You are Mauzam Haseeb/Nasifa Khan of 917, Platinum Apartments, Gomti Vihar, Kath Nagar.
+(a) **[Letter to Editor]** In your local market, you have noticed that young children are working in a few restaurants. You were aghast to see a blatant violation of laws. Write a letter to the editor of a national daily, in about 120 words, expressing your concern at the situation and suggesting measures to resolve the problem and drawing attention of the concerned authorities. You are Mauzam Haseeb/Nasifa Khan of 917, Platinum Apartments, Gomti Vihar, Kath Nagar.  
 
 OR
 
