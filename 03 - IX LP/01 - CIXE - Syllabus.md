@@ -31,26 +31,23 @@
 	- #### h. Kathmandu
 	- #### i. If I were You
 
-- ### 2. Poetry (First Flight)
+- ### 2. Poetry (Beehive)
 	- #### a. The Road Not taken
 	- #### b. Wind
-	- #### c. 
-	- #### d. How to Tell Wild Animals
-	- #### e. The Ball Poem
-	- #### f. Amanda!
-	- #### g. The Trees
-	- #### i. Fog
-	- #### j. The Tale of Custard the Dragon
-	- #### k. For Anne Gregory
+	- #### c. Rain on The Roof
+	- #### d. The Lake Isle of Innisfree
+	- #### e. A Legend of the Northland
+	- #### f. No Men are Foreign
+	- #### g. On Killing a Tree
+	- #### i. A Slumber Did My Spirit Seal
 
-- ### 3. Supplementary (Footprints Without Feet)
-	- #### a. A Triumph of Surgery
-	- #### b. The Thief's Story
-	- #### c. The Midnight Visitor
-	- #### d. A Question of Trust
-	- #### e. Footprints without Feet
-	- #### f. The Making of a Scientist
-	- #### g. The Necklace
-	- #### h. Bholi
-	- #### i. The Book That Saved the Earth
+- ### 3. Supplementary (Moments)
+	- #### a. The Lost Child
+	- #### b. The adventures of Toto
+	- #### c. Iswaran the Storyteller
+	- #### d. In the kingdom of fools
+	- #### e. The Happy Prince
+	- #### f. The Last Leaf
+	- #### g. A House is not a Home
+	- #### h. The Beggar
 
