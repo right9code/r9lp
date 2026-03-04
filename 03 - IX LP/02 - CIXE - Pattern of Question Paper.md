@@ -46,14 +46,14 @@
 ## III. SECTION C: LITERATURE SECTION (40 MARKS)
 - ### 6. **Prose/Drama Extract** (05 M)
 	- **Options:** 1/2 Extracts
-	- **Source:** BEEHIVE
+	- **Source:** BEEHIVE / MOMENTS
 	- **Word limit:** 
 		- One line for 1 M Descriptive Question
 		- 40 words for 2 M Descriptive Question. 
 	- **Question types:** Multiple Choice Questions (MCQs), Objective Type, and Short Answer questions.
 - ### 7. **Poetry Extract** (05 M)
 	- **Options:** 1/2 Extracts
-	- **Source:** 
+	- **Source:** BEEHIVE / MOMENTS
 	- **Word limit:** 
 		- One line for 1 M Descriptive Question
 		- 40 words for 2 M Descriptive Question. 
@@ -61,20 +61,20 @@
 - ### 8. **SHORT ANSWER TYPE**  (12 M)
 	- **Options:** 4/5 Questions
 	- **Marking:** 4 x 3 M = 12 M
-	- **Source:** FIRST FLIGHT
+	- **Source:** BEEHIVE
 	- **Word limit:** 40-50 words per question
 - ### 9. **SHORT ANSWER TYPE** (06 M)
 	- **Options:** 2/3 Questions
 	- **Marking:** 2 x 3 M = 6 M
-	- **Source:** FOOTPRINTS WITHOUT FEET
+	- **Source:** MOMENTS
 	- **Word limit:** 40-50 words per question
 - ### 10. **LONG ANSWER TYPE** (06 M)
 	- **Options:** 1/2 Questions
 	- **Marking:** 1 x 6 M = 6 M
-	- **Source:** FIRST FLIGHT
+	- **Source:** BEEHIVE 
 	- **Word limit:** 100-120 words per question
 - ### 11. **LONG ANSWER TYPE** (06 M)
 	- **Options:** 1/2 Questions
 	- **Marking:** 1 x 6 M = 6 M
-	- **Source:** FOOTPRINTS WITHOUT FEET
+	- **Source:** MOMENTS
 	- **Word limit:** 100-120 words per question
