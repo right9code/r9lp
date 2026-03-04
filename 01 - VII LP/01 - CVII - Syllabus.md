@@ -6,7 +6,6 @@
 	- Informal Letter
 3. Three Days to See (Prose) (03 pages)
 	- ASL
-	- Modal verbs
 
 ### Unit 2: Wit and Humour
 1. Animals, Birds, and Dr. Dolittle (Prose) (06 pages)
