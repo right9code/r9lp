@@ -16,26 +16,25 @@
 
 - ### 3. Writing Section
 	- #### a. Descriptive Paragraph (Word limit: 100-120 words)
-	- #### b. Analytical Paragraph (Word limit: 100-120 words)
-		* Based on a Map, Chart, Graph, or Cues.
+	- #### b. Story/Diary Entry (Word limit: 100-120 words)
 
 ## II. ENGLISH LITERATURE
 
-- ### 1. Prose (First Flight)
-	- #### a. A Letter to God
-	- #### b. Nelson Mandela: Long Walk to Freedom
-	- #### c. Two Stories about Flying
-	- #### d. From the Diary of Anne Frank
-	- #### e. Glimpses of India
-	- #### f. Mijbil the Otter
-	- #### g. Madam Rides the Bus
-	- #### h. The Sermon at Benares
-	- #### i. The Proposal (Play)
+- ### 1. Prose (Beehive)
+	- #### a. The Fun They Had
+	- #### b. The Sound of Music
+	- #### c. The Little Girl
+	- #### d. A Truly Beautiful Mind
+	- #### e. The Snake and the Mirror
+	- #### f. My Childhood
+	- #### g. Reach for The Top
+	- #### h. Kathmandu
+	- #### i. If I were You
 
 - ### 2. Poetry (First Flight)
-	- #### a. Dust of Snow
-	- #### b. Fire and Ice
-	- #### c. A Tiger in the Zoo
+	- #### a. The Road Not taken
+	- #### b. Wind
+	- #### c. 
 	- #### d. How to Tell Wild Animals
 	- #### e. The Ball Poem
 	- #### f. Amanda!
