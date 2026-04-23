@@ -13,3 +13,28 @@
 13. He ________ his exercises already. *(complete)*  
 14. Look! The bird ________ into the sky. *(fly)*  
 15. The workers ________ the road for two months when the inspector visited. *(repair)*
+
+
+
+
+**HOMEWORK**
+
+1. ________ you ________ your homework yet? *(finish)*  
+
+2. She ________ late for school yesterday. *(not arrive)*  
+
+3. ________ they ________ to the party next week? *(come)*  
+
+4. I ________ my phone anywhere in the room. *(not find)*  
+
+5. ________ he ________ cricket when you met him? *(play)*  
+
+6. They ________ the movie before the lights went out. *(watch)*  
+
+7. ________ you ________ your keys at home this morning? *(leave)*  
+
+8. He ________ very careful while crossing the road. *(be)*  
+
+9. ________ the students ________ the instructions clearly? *(understand)*  
+
+10. We ________ for the bus since 8 a.m. *(wait)*
