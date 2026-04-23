@@ -1,4 +1,4 @@
-1. She **was watching** TV when her father came home.  
+u1. She **was watching** TV when her father came home.  
    → *Past Continuous tense*: used for an action in progress at a specific time in the past, interrupted by another past event.
 
 2. They **go** to school every day by bus.  
@@ -42,3 +42,38 @@
 
 15. The workers **had been repairing** the road for two months when the inspector visited.  
     → *Past Perfect Continuous tense*: used for an action that had been going on over a period before another past event.
+
+
+
+
+
+
+1. **Have you finished** your homework yet?  
+   → *Present Perfect tense (interrogative)*: used to ask if a past action is already completed and still relevant now (clue: “yet”).
+
+2. She **did not arrive** late for school yesterday.  
+   → *Past Simple tense (negative)*: used for a completed action in the past; negative form uses “did not + base verb”.
+
+3. **Will they come** to the party next week?  
+   → *Future Simple tense (interrogative)*: used to ask about a future plan or event (time clue: “next week”).
+
+4. I **have not found** my phone anywhere in the room.  
+   → *Present Perfect tense (negative)*: shows that up to now, the action has not happened (“not found”).
+
+5. **Was he playing** cricket when you met him?  
+   → *Past Continuous tense (interrogative)*: asks about an action that was in progress at a specific time in the past.
+
+6. They **had watched** the movie before the lights went out.  
+   → *Past Perfect tense*: shows that one past action (watching) was completed before another past event (lights going out).
+
+7. **Did you leave** your keys at home this morning?  
+   → *Past Simple tense (interrogative)*: used to ask about a completed action in the past with a specific time (“this morning”).
+
+8. He **was** very careful while crossing the road.  
+   → *Past Simple tense*: describes a past state or condition at a specific time (implied in the context).
+
+9. **Have the students understood** the instructions clearly?  
+   → *Present Perfect tense (interrogative)*: asks if the students have completed the action of understanding, and it is still relevant now.
+
+10. We **have been waiting** for the bus since 8 a.m.  
+    → *Present Perfect Continuous tense*: used for an action that started in the past and is still continuing (time clue: “since 8 a.m.”).
