@@ -78,3 +78,60 @@ However, the report noted two issues: a 15% drop in solar efficiency during mons
 19. **Application:** What strategy should a neighboring district adopt to fix the 12-day repair delay before starting a similar project?  
 
 20. **Title:** Suggest a suitable 3-to-4 word title for this case study.  
+
+
+---
+
+### Answer Key: Solar Energy in District X Schools  
+
+#### Objective & Data Retrieval  
+
+1. **Direct Fact:** 75%  
+
+2. **True/False:** False  
+
+3. **Fill in the Blank:** science labs  
+
+4. **Data Calculation:** ₹45,000  
+
+5. **Timeline:** 2024  
+
+#### Multiple Choice (MCQs)  
+
+6. **Data MCQ:** (b) by 15%  
+
+7. **Problem MCQ:** (c) local technical staff  
+
+8. **Vocabulary MCQ:** (b) reallocate  
+
+#### Assertion-Reasoning & Structure  
+
+9. **Assertion-Reasoning:** (a) Both true, R explains A  
+
+10. **Evidence:** "...cut carbon emissions by 1,200 metric tons."  
+
+#### Vocabulary & Language  
+
+11. **Synonym:** transitioned  
+
+12. **Antonym:** lack  
+
+13. **Meaning:** It refers to the capability of the solar panels to convert sunlight into usable electricity.  
+
+#### Short Answer & Inference  
+
+14. **Inference:** The money saved on monthly power bills freed up financial resources, which the authorities redirected to upgrade school science labs.  
+
+15. **Cause-Effect:** Monsoon weather brings prolonged cloud cover, which blocks direct sunlight and reduces the amount of energy the solar panels can generate.  
+
+16. **Problem Identification:** The two challenges are a 15% drop in solar energy efficiency during the monsoons, and a 12-day maintenance delay due to the lack of local technical staff.  
+
+17. **Sentence Completion:** The project required backup power because... solar efficiency drops by 15% during monsoon months due to cloud cover, meaning the solar panels cannot generate maximum power consistently.  
+
+#### High-Order Thinking (HOTS)  
+
+18. **Evaluation:** No, it is not a flawless success. While it achieved massive financial and environmental targets, it faced serious operational limitations like weather dependency and long repair delays.  
+
+19. **Application:** They should set up a localized training program for technical staff or hire local maintenance teams on contract before launching the hardware.  
+
+20. **Title:** District X's Green Energy Shift  
